@@ -5,12 +5,8 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="arrow-prev" sketch:type="MSLayerGroup" transform="translate(3.000000, 2.000000)" stroke-linecap="round" stroke="#AFAFAF" stroke-width="3">
-            <g id="Page-1" transform="translate(0.000000, 0.000000)" sketch:type="MSShapeGroup">
-                <g id="Artboard-1" transform="translate(0.000000, 0.000000)">
-                    <path d="M1.77635684e-15,0 L28,25.828077 L1.77635684e-15,52" id="Path-25-Copy" transform="translate(14.000000, 26.000000) rotate(180.000000) translate(-14.000000, -26.000000) "></path>
-                </g>
-            </g>
-        </g>
+        <g id="slices" sketch:type="MSLayerGroup" transform="translate(0.000000, -158.000000)"></g>
+        <path d="M9.01026844,43.25 C9.00346783,43.1675667 9,43.0841883 9,43 L9,12 C9,10.3431458 10.3431458,9 12,9 C13.6568542,9 15,10.3431458 15,12 L15,40.5 L43,40.5 C44.6568542,40.5 46,41.8431458 46,43.5 C46,45.1568542 44.6568542,46.5 43,46.5 L12,46.5 C10.3431458,46.5 9,45.1568542 9,43.5 C9,43.4158117 9.00346783,43.3324333 9.01026844,43.25 Z" id="Shape" fill="#AFAFAF" sketch:type="MSShapeGroup" transform="translate(27.500000, 27.750000) rotate(-315.000000) translate(-27.500000, -27.750000) "></path>
+        <path d="M30.0102684,43.25 C30.0034678,43.1675667 30,43.0841883 30,43 L30,12 C30,10.3431458 31.3431458,9 33,9 C34.6568542,9 36,10.3431458 36,12 L36,40.5 L64,40.5 C65.6568542,40.5 67,41.8431458 67,43.5 C67,45.1568542 65.6568542,46.5 64,46.5 L33,46.5 C31.3431458,46.5 30,45.1568542 30,43.5 C30,43.4158117 30.0034678,43.3324333 30.0102684,43.25 Z" id="Shape-Copy-5" fill="#AFAFAF" sketch:type="MSShapeGroup" transform="translate(48.500000, 27.750000) scale(-1, 1) rotate(-315.000000) translate(-48.500000, -27.750000) "></path>
     </g>
 </svg>

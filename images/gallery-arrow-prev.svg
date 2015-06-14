@@ -6,9 +6,11 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="slices" sketch:type="MSLayerGroup" transform="translate(-183.000000, 0.000000)"></g>
-        <g id="gallery-arrow-prev" sketch:type="MSLayerGroup" transform="translate(6.000000, 3.000000)">
-            <path d="M1,3.20820439e-15 L31,27.828077 L1,56" id="gallery-arrow-prev-outline" stroke-opacity="0.35" stroke="#000000" stroke-width="8" sketch:type="MSShapeGroup" transform="translate(16.000000, 28.000000) rotate(180.000000) translate(-16.000000, -28.000000) "></path>
-            <path d="M1,2 L29,27.828077 L1,54" stroke="#FFFFFF" stroke-width="3" sketch:type="MSShapeGroup" transform="translate(15.000000, 28.000000) rotate(180.000000) translate(-15.000000, -28.000000) "></path>
+        <g id="Shape-+-Shape" sketch:type="MSLayerGroup" transform="translate(30.500000, 31.000000) rotate(-315.000000) translate(-30.500000, -31.000000) translate(12.000000, 12.000000)" fill="#81BF63">
+            <path d="M0.0102684442,34.75 C0.00346783221,34.6675667 0,34.5841883 0,34.5 L0,3.5 C0,1.84314575 1.34314575,0.5 3,0.5 C4.65685425,0.5 6,1.84314575 6,3.5 L6,32 L34,32 C35.6568542,32 37,33.3431458 37,35 C37,36.6568542 35.6568542,38 34,38 L3,38 C1.34314575,38 0,36.6568542 0,35 C0,34.9158117 0.00346783221,34.8324333 0.0102684442,34.75 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+        <g id="Shape-+-Shape-Copy" sketch:type="MSLayerGroup" transform="translate(53.500000, 31.000000) scale(-1, 1) rotate(-315.000000) translate(-53.500000, -31.000000) translate(35.000000, 12.000000)" fill="#81BF63">
+            <path d="M0.0102684442,34.75 C0.00346783221,34.6675667 0,34.5841883 0,34.5 L0,3.5 C0,1.84314575 1.34314575,0.5 3,0.5 C4.65685425,0.5 6,1.84314575 6,3.5 L6,32 L34,32 C35.6568542,32 37,33.3431458 37,35 C37,36.6568542 35.6568542,38 34,38 L3,38 C1.34314575,38 0,36.6568542 0,35 C0,34.9158117 0.00346783221,34.8324333 0.0102684442,34.75 Z" id="Shape" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>
