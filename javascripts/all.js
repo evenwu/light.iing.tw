@@ -117,6 +117,11 @@ if ( $('.homepage').length != 0 ) {
         settings: {
           slidesToShow: 4
         }
+      },{
+        breakpoint: 2220,
+        settings: {
+          slidesToShow: 5
+        }
       }
     ]
   });
