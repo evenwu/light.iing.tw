@@ -561,10 +561,9 @@ tbody.collapse.in { display: table-row-group; }
 .team .team-info-card .team-name { font-size: 24px; line-height: 30px; color: #444444; }
 .team .team-info-card .team-location { font-size: 13px; line-height: 24px; font-weight: bold; color: #666666; }
 .team .team-info-card .team-info-list { list-style: none; margin: 12px 0 0; padding: 12px 0 0; border-top: 1px solid #dddddd; }
-.team .team-info-card li { margin-bottom: 12px; }
+.team .team-info-card li { margin-bottom: 12px; white-space: nowrap; }
 .team .team-info-card .label { display: block; width: 100px; font-size: 13px; line-height: 24px; font-weight: bold; color: #666666; }
 .team .team-info-card .info-content { display: block; font-size: 15px; line-height: 24px; }
-.team .team-info-card .info-content a { white-space: nowrap; }
 .team .team-info-card .info-content:empty { pointer-events: none; }
 .team .team-info-card .info-content:empty:before { content: "目前尚無資料"; color: #aaaaaa; }
 @media (min-width: 640px) { .team .team-cover { padding: 0 48px; }
