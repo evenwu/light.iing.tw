@@ -1,0 +1,609 @@
+-
+  file_name: "mountainlodge"
+  slogan: "帶著世界回到家鄉，開始農村的寧靜革命"
+  name: "老寮工作坊"
+  video: "https://www.youtube.com/watch?v=ixQE9RPnM-I"
+  map: "miaoli"
+  location: "苗栗縣南庄鄉"
+  address: "苗栗縣南庄鄉南江村 22 鄰南江街 50 號"
+  category: "藝術文化"
+  since: "2014"
+  website: "http://www.mountainlodgetw.com"
+  facebook_page: "https://www.facebook.com/mountainlodge2014"
+  preface: "在苗栗南庄，有一群年輕人相信著，認識土地最好的方式，是生活；他們相信老房子雖老，那是過去生活在這裡的時光痕跡，這些過往的痕跡決定了我們現在的模樣。"
+  member_amount: "一個老闆、兩個員工"
+  member:
+    -
+      figure_file_name: "QiuXingwei"
+      name: "星崴"
+      intro: "苗栗大南埔人。大學時阿婆告訴他:「你讀書的人，不要回來了。」他不聽話，硬是召集朋友，三年前成立「大南埔農村辦公室」紀錄文化，也嘗試和農村一起走出不同的路。"
+    -
+      figure_file_name: "LiuJingjie"
+      name: "皮子"
+      intro: "雲林與台中人。曾到蘭嶼換宿，被其島嶼與海洋文化深深吸引，轉而想進入山中向山林學習。"
+    -
+      figure_file_name: "ZhouYaxuan"
+      name: "亞璇"
+      intro: "台北樹林人。因為大埔事件來到苗栗，為了要把 23 年的空白補齊，決定加入老寮，希望能成為一個有很多故事的人。"
+    -
+      figure_file_name: "LiuMengcheng"
+      name: "劉孟"
+      intro: "南庄大南埔人。從小在山野間長大，習得一身山林本領。現為南富村巡守隊隊長，大家都以「隊長」稱之。因為推動友善耕作以及復興農村的理念加入老寮團隊。"
+    -
+      figure_file_name: "ZhengYiqian"
+      name: "鄭伊"
+      intro: "標準的都市小資女，一次偶然的換宿機會來到大南埔，感受到鄉村生活的舒服自在，卻也體認到產業斷層危機。因為支持老寮推動的青年下鄉與產業復甦理念，所以毅然拋下種種對城市便利的依賴感，投入農創店的經營開發，是第一個加入老寮團隊的換宿生。"
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+    -
+      figure: ""
+      name: ""
+      intro: ""
+-
+  file_name: "far-east-war-1592"
+  slogan: "帶給玩家「不只是桌遊」的體驗，將台產桌遊推廣至全世界"
+  name: "壬辰之戰"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市"
+  category: "藝術文化"
+  since: "2010"
+  website: ""
+  facebook_page: "https://www.facebook.com/few1592"
+  preface: "《壬辰之戰》是一款由台灣團隊設計的歷史戰棋桌遊，企劃費時五年，以史詩般的古代東亞戰爭作為遊戲主軸，呈現開闊的格局。並以深度策略的遊戲機制來面向國際，希望將台產桌遊推廣至全世界。"
+  member_amount: "7人"
