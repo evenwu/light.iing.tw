@@ -1,0 +1,35 @@
+-
+  en_name: ""
+  slogan: ""
+  name: ""
+  video: ""
+  map: ""
+  location: ""
+  address: ""
+  category: ""
+  since: ""
+  website: ""
+  facebook_page: ""
+  preface: ""
+  member_amount: ""
+  member:
+    -
+      figure_en_name: ""
+      name: ""
+      intro: ""
+    -
+      figure_en_name: ""
+      name: ""
+      intro: ""
+    -
+      figure_en_name: ""
+      name: ""
+      intro: ""
+    -
+      figure_en_name: ""
+      name: ""
+      intro: ""
+    -
+      figure_en_name: ""
+      name: ""
+      intro: ""
