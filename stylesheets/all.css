@@ -499,7 +499,7 @@ tbody.collapse.in { display: table-row-group; }
 @media (min-width: 640px) { .hero .hero-bg-slide-item { height: 640px; padding-bottom: 72px; }
   .hero .hero-slide-item { height: 640px; }
   .hero .slick-dots { padding: 23px 0; border-top: 2px solid rgba(255, 255, 255, 0.3); } }
-@media (min-width: 1025px) { .hero { margin: 0; }
+@media (min-width: 1025px) { .hero { background-image: url("/images/hero-bg.jpg"); margin: 0; }
   .hero .hero-bg-slide { display: none; }
   .hero .hero-bg-slide-item { height: 90vh; padding-bottom: 72px; }
   .hero .hero-slide { padding: 0 96px 0; }
@@ -533,6 +533,7 @@ tbody.collapse.in { display: table-row-group; }
 .team .team-info .location-icon { display: block; margin: 0 auto; width: 72px; opacity: 0.75; }
 .team .team-info .location-text { display: block; }
 .team .team-info span { display: inline-block; padding: 0 3px; font-size: 13px; line-height: 18px; font-weight: bold; color: #ccc; }
+.team .fb-like-block { display: block; margin: 0 auto 48px; width: 100px; height: 86px; text-align: center; }
 .team .team-content { padding: 48px 0; }
 .team .team-content h3 { font-size: 21px; line-height: 24px; color: black; text-align: center; margin-bottom: 30px; }
 .team .team-content h4 { font-size: 16px; line-height: 24px; color: black; margin-bottom: 24px; font-weight: bold; }
@@ -569,6 +570,7 @@ tbody.collapse.in { display: table-row-group; }
 @media (min-width: 640px) { .team .team-cover { padding: 0 48px; }
   .team .team-slogan.auto-break-text { font-size: 32px; line-height: 36px; margin-bottom: 12px; }
   .team .team-name { font-size: 20px; line-height: 24px; }
+  .team .fb-like-block { margin: 0 auto 72px; }
   .team .team-preface { font-size: 20px; line-height: 32px; margin: 0 auto 96px; }
   .team .team-member { margin: 0 auto 96px; }
   .team .team-content { margin: 0 auto; padding: 72px 0; }
@@ -610,7 +612,7 @@ tbody.collapse.in { display: table-row-group; }
 
 .content { padding: 48px 0; }
 .content .content-inner { margin: 0 auto; max-width: 768px; text-align: center; position: relative; z-index: 50; }
-.content h4 { margin-bottom: 12px; font-size: 15px; line-height: 24px; font-weight: bold; color: #999999; }
+.content h3 { margin-bottom: 12px; font-size: 15px; line-height: 24px; font-weight: bold; color: #999999; }
 .content .notice { margin-top: 24px; padding-top: 0px; padding-bottom: 0px; margin-bottom: 24px; font-size: 15px; line-height: 24px; font-weight: bold; }
 .content .divide:before { content: ""; display: block; width: 25%; margin: 48px auto; border-top: 2px solid #eeeeee; }
 .content .action { margin-bottom: 48px; }
