@@ -565,3 +565,80 @@
       figure_en_name: "02"
       name: "陳博文"
       intro: "博士香腸商行店長，負責食品製作販售。"
+-
+  en_name: "daebyday"
+  slogan: "「日子要簡單過，茶要簡單喝。」廣告人與設計人攜手推出台灣在地好茶"
+  name: "茶日子 Dae by Day"
+  video: false
+  map: "taipei"
+  location: "台北"
+  address: "台北"
+  category: "在地滋味"
+  since: "2014"
+  website: ""
+  facebook_page: "https://www.facebook.com/DaebyDay.teafor365days"
+  preface: "曾任 4A 廣告公司 account 與知名設計公司 art 十多年的兩個人，或許是厭倦了廣告設計產業的生態，來自相關領域但擁有不同專業的兩人合夥，透過一個跟茶與日子有關的創業計畫，在跌跌撞撞的創業過程中，重新發現台灣茶與在地生活的美好。"
+  member_amount: "兩個人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "翁啟倫"
+      intro: "台北人。<br>美國完成 MBA 學位，並在外商廣告公司經營國際知名品牌多年，決定創業卻選擇從傳統的茶產業出發，重新定義舊價值的過程之中，期待能從最日常的生活中發現本土品牌的新價值。"
+    -
+      figure_en_name: "02"
+      name: "何應爵"
+      intro: "台南人。<br>台北生活 15 年，往返南北之間，試圖在兩個不同步調的城市之間找到平衡的創意工作者，期待能透過「茶」這平台與本地不同的創作單位合作，在日常生活與設計工作中發現更多獨特美好的可能。"
+-
+  en_name: "howdytw"
+  slogan: "設計師離開電腦，走進鄉村發想土地文創"
+  name: "好心地文創有限公司"
+  video: "https://www.youtube.com/watch?v=Czyai0GqyLw"
+  map: "taichung"
+  location: "臺中市"
+  address: "臺中市"
+  category: "生活工藝"
+  since: "2013"
+  website: "http://www.howdy.tw"
+  facebook_page: "https://www.facebook.com/howdytw"
+  preface: "好心地文創前身為一家單純的設計公司，創建於 2008 年，創辦人兼執行長黃奕杰希冀在傳統產業裡尋求設計注入的可能，他認為：「如果要把土地創意談得更加徹底，那就必須讓設計師離開電腦，真正走進台灣鄉下。」"
+  member_amount: "一位想證明台灣有好物的年輕創業家"
+  member:
+    -
+      figure_en_name: "01"
+      name: "黃奕杰"
+      intro: "雲林科技大學博士生，專攻文化創意產業，現為好心地文創執行長。"
+-
+  en_name: "doyouaflavor"
+  slogan: "自己的社福自己做，和街友攜手開發人生百味良品"
+  name: "人生百味"
+  video: "https://www.youtube.com/watch?v=nSZnnD0Ab4Y"
+  map: "taipei"
+  location: "台北市大稻埕"
+  address: "台北市大稻埕"
+  category: "在地滋味"
+  since: "2014"
+  website: "http://doyouaflavor.tw/"
+  facebook_page: "https://www.facebook.com/Do.you.a.flavor"
+  preface: "誕生於 2014 年 3 月學運的街頭，由數位關心社會弱勢議題年輕人發起，希望以工作機會與食物交流為主軸，編織出在社會福利法外的社會保護網，永續發展食物與弱勢相關議題。"
+  member_amount: "5 人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "朱剛勇"
+      intro: "三一八走上街頭後發現回不去了。希望透過各種計劃增加人與人之間的互動，打破隔閡拉近距離，翻轉各種弱勢狀態的邊緣化現象，相信食物有百味，人生亦有百味，世界上沒有一種人叫做『窮人』，流浪、落魄、貧困都是一種狀態，是人生的不同風貌，不同味道。"
+    -
+      figure_en_name: "02"
+      name: "阿德"
+      intro: "臉老心不老的南投埔里人，跟人生百味的夥伴一起在漆黑的街頭，研究怎麼開燈。"
+    -
+      figure_en_name: "03"
+      name: "書懷"
+      intro: "現役為幫 NPO 架網站的攻城獅，抱著台中魂在台北掙扎，希望從人民團體的參與中找到解決社會問題的曙光。"
+    -
+      figure_en_name: "04"
+      name: "小寶"
+      intro: "擁有廚藝的接案攝影師。沒有什麼是永遠的，活在當下，只做自己喜歡的事。常被別人說：你好奇怪！心裡是開心的，帶點驕傲。何其幸運與難得，能認識身邊為了理念一起前進成長的夥伴。"
+    -
+      figure_en_name: "05"
+      name: "大伯"
+      intro: "25歲，台北人。可能有維京人的血統，總是樂於過著冒險的人生，立志當個勇於承擔、積極創新的傻子，也不斷提醒自己「人生除了幸福，還有責任」。儘管在臺大碩士班期間主修商學，仍持續關注環境、土地、糧食與弱勢等議題，並持續追問著自己：如何建立一個人人都能找到並認同自己的理想國。"
