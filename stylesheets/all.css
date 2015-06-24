@@ -584,6 +584,7 @@ tbody.collapse.in { display: table-row-group; }
   .team .team-content .container { max-width: 768px; }
   .team .team-content h3 { font-size: 27px; line-height: 33px; margin-bottom: 36px; }
   .team .team-content h4 { margin-bottom: 36px; font-size: 20px; line-height: 32px; }
+  .team .team-content ul, .team .team-content ol { margin-top: 36px; margin-bottom: 36px; }
   .team .team-intro { margin-bottom: 48px; font-size: 18px; line-height: 27px; }
   .team .team-intro p { margin-bottom: 36px; font-size: 20px; line-height: 32px; }
   .team .team-info-card li { margin-bottom: 0px; }
