@@ -493,13 +493,13 @@
   since: "2009"
   website: "http://www.duofu.com.tw/"
   facebook_page: "https://www.facebook.com/DOUFU.TAIWAN"
-  preface: "多扶接送為臺灣第一家民營的復康巴士，以「無障礙環境的全面連結」做為服務宗旨，為行動上需要特別照護的「孕、幼、老、輪」提供客製化交通服務，讓行動不便者不僅能夠自主掌握「行的需求」，也能自己決定「行的方式」。"
+  preface: "多扶接送為台灣第一家民營的復康巴士，以「無障礙環境的全面連結」做為服務宗旨，為行動上需要特別照護的「孕、幼、老、輪」提供客製化交通服務，讓行動不便者不僅能夠自主掌握「行的需求」，也能自己決定「行的方式」。"
   member_amount: "27人公司"
   member:
     -
       figure_en_name: "001"
       name: "許佐夫 Jeff"
-      intro: "多扶接送的創辦人，在投身無障礙服務前是紀錄片編導。在十二年的傳播製片工作中，對無障礙服務一無所知。直到有一天，Jeff 九十多歲的客家外婆生病受傷，需以輪椅代步後，他才赫然驚覺臺灣的環境對行動不便者非常不友善。因此，Jeff 毅然決然地投身無障礙服務，成立臺灣第一家民營的復康巴士。"
+      intro: "多扶接送的創辦人，在投身無障礙服務前是紀錄片編導。在十二年的傳播製片工作中，對無障礙服務一無所知。直到有一天，Jeff 九十多歲的客家外婆生病受傷，需以輪椅代步後，他才赫然驚覺台灣的環境對行動不便者非常不友善。因此，Jeff 毅然決然地投身無障礙服務，成立台灣第一家民營的復康巴士。"
 -
   en_name: "pangcahfarm"
   slogan: "她一個人回到部落，找到一群好夥伴共同經營有機農場"
@@ -609,13 +609,13 @@
       intro: "雲林科技大學博士生，專攻文化創意產業，現為好心地文創執行長。"
 -
   en_name: "doyouaflavor"
-  slogan: "自己的社福自己做，和街友攜手開發人生百味良品"
+  slogan: "自己的社福自己做，和街賣者攜手開發人生百味良品"
   name: "人生百味"
   video: "https://www.youtube.com/watch?v=nSZnnD0Ab4Y"
   map: "taipei"
   location: "台北市大稻埕"
   address: "台北市大稻埕"
-  category: "在地滋味"
+  category: "社會創新"
   since: "2014"
   website: "http://doyouaflavor.tw/"
   facebook_page: "https://www.facebook.com/Do.you.a.flavor"
@@ -641,7 +641,7 @@
     -
       figure_en_name: "05"
       name: "大伯"
-      intro: "25歲，台北人。可能有維京人的血統，總是樂於過著冒險的人生，立志當個勇於承擔、積極創新的傻子，也不斷提醒自己「人生除了幸福，還有責任」。儘管在臺大碩士班期間主修商學，仍持續關注環境、土地、糧食與弱勢等議題，並持續追問著自己：如何建立一個人人都能找到並認同自己的理想國。"
+      intro: "25歲，台北人。可能有維京人的血統，總是樂於過著冒險的人生，立志當個勇於承擔、積極創新的傻子，也不斷提醒自己「人生除了幸福，還有責任」。儘管在台大碩士班期間主修商學，仍持續關注環境、土地、糧食與弱勢等議題，並持續追問著自己：如何建立一個人人都能找到並認同自己的理想國。"
 -
   en_name: "sittogether"
   slogan: "兄妹合作，創造一個共活、共享、共創的空間"
@@ -703,3 +703,87 @@
       figure_en_name: "01"
       name: "陳威仲"
       intro: "拷秋勤樂團成員／激進工作室負責人／內地搖滾創辦人"
+-
+  en_name: "flowerforlove"
+  slogan: "以獨一無二的花與盆栽，為人們傳情"
+  name: "花羽愛"
+  video: false
+  map: "kaohsiung"
+  location: "高雄市"
+  address: "高雄市前金區文武三街99號"
+  category: "生活工藝"
+  since: "2014"
+  website: ""
+  facebook_page: "https://www.facebook.com/flower.forlove99"
+  preface: "每個獨一無二的作品背後都充滿了許多小故事。花羽愛工作室希望藉由花，來傳遞難以啟齒的愛意、心意甚或是歉意，讓收到的人都可以感受滿滿的愛及溫暖。"
+  member_amount: "兩個年輕人，一間工作室"
+  member:
+    -
+      figure_en_name: "01"
+      name: "莊羽涵"
+      intro: "因為喜愛花藝及文化產業，希望能讓獲得作品的人充分感受到溫度，並非商業作品所能替代的。"
+-
+  en_name: "2501dt"
+  slogan: "清寒創業家自創服裝品牌，更替台灣藝術家創造發光平台"
+  name: "25:01 DESIGN T-SHRIT"
+  video: "https://www.youtube.com/watch?v=_nJhmCid3ZQ"
+  map: "taipei"
+  location: "台北市"
+  address: "台北市西寧南路 72-1 號 5 樓 18 室"
+  category: "生活工藝"
+  since: "2012"
+  website: "http://www.25-01.com/"
+  facebook_page: "https://www.facebook.com/2501DT"
+  preface: "「讓有才華的人有口飯吃，能更有力量帶著夢想繼續前進。」這是 25:01 一直在投入的事情，也從來沒有因為商場的現實利益而改變初衷，對我們來說，每個創作都值得存在和備受關注。"
+  member_amount: "一個我，一家店，一個國際品牌野心。"
+  member:
+    -
+      figure_en_name: "01"
+      name: "陳郁翔"
+      intro: "國中學歷，清寒家庭，內心交織著改變命運的倔強和野心。"
+-
+  en_name: "haihostel"
+  slogan: "不甘旅人覺得基隆無趣，一群年輕人創立背包客棧、規劃精采行程"
+  name: "女巫國際背包客生活概念館"
+  video: false
+  map: "keelungcity"
+  location: "基隆市"
+  address: "基隆市中正區北寧路369巷21號"
+  category: "社會創新"
+  since: "2013"
+  website: ""
+  facebook_page: "http://www.facebook.com/haihostel"
+  preface: "一群來自基隆的年輕人，不甘願旅人們覺得基隆無趣，他們回到家鄉，成立女巫國際背包客生活概念館，規劃出許多精采行程，讓到基隆遊玩的旅人們，都能在離開時帶走一句：「基隆真的是超好玩的啦！」"
+  member_amount: "一群年輕人、分散在世界各國的旅人們"
+  member:
+    -
+      figure_en_name: "01"
+      name: "牛妞"
+      intro: "在這，少了他就像和世界斷了橋樑，調酒師 × 英語達人 × 設計師 集結在一身！愛與和平的海派角色，熱愛海洋運動。"
+    -
+      figure_en_name: "02"
+      name: "臉未到肚先到的肚肚"
+      intro: "致力於讓所有經過、到訪的旅人們深深愛上基隆的美。"
+    -
+      figure_en_name: "03"
+      name: "柯南"
+      intro: "七年前愛上了，就決定卯足一切死命也要把基隆推上世界一環！"
+    -
+      figure_en_name: "04"
+      name: "陳銘仁"
+      intro: "專業的創業團隊智囊團"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
