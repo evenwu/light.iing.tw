@@ -772,18 +772,149 @@
       figure_en_name: "04"
       name: "陳銘仁"
       intro: "專業的創業團隊智囊團"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-
+  en_name: "twinlandrock"
+  slogan: "「台灣的內地是南投！」音樂人打造台灣唯一不靠海的音樂祭"
+  name: "內地搖滾"
+  video: "https://www.youtube.com/watch?v=aN9kY25D6jE"
+  map: "nantou"
+  location: "南投縣"
+  address: "南投縣"
+  category: "藝術文化"
+  since: "2015"
+  website: ""
+  facebook_page: "https://www.facebook.com/TWInlandRock"
+  preface: "「內地搖滾」與南投埔里在地結合，串聯南投文化、農產、文創，企業資源，一同打造南投真正的在地精神，創造台灣唯一內陸不靠海的音樂祭。去「內地」不用出國，台灣的內地就在南投！"
+  member_amount: "台灣人的音樂祭"
+  member:
+    -
+      figure_en_name: "01"
+      name: "陳威仲"
+      intro: "激進工作室負責人"
+    -
+      figure_en_name: "02"
+      name: "KEVIN"
+      intro: "Magic Box 行銷創意"
+-
+  en_name: "ssunville"
+  slogan: "三個女孩走入老房子，打造一間懷舊質樸的工作室"
+  name: "小陽。春日子"
+  video: false
+  map: "pingtung"
+  location: "屏東縣"
+  address: "屏東縣"
+  category: "藝術文化"
+  since: "2012"
+  website: ""
+  facebook_page: "https://www.facebook.com/ssunville"
+  preface: "不以營利方式來使用這房舍，做為藝文交流空間，也以眷村文物原味保留為目標，不是展場的展品，而是生活物件，要用手的潤澤讓舊物展現另一種生命質地，更為質樸、歡喜、更為豐饒，也更貼近真實生活本身。"
+  member_amount: "3個女藝文工作者、一間老眷舍"
+  member:
+    -
+      figure_en_name: "01"
+      name: "蔡依芸"
+      intro: "攝影／園丁<br>喜歡熱血過生活、喜歡讀文字、喜歡騎自行車漫遊、喜歡用底片相機拍照；一直對花草樹木懷抱著愛情；一直對舊時光裡的老物件有著莫名愛戀"
+    -
+      figure_en_name: "02"
+      name: "劉孟玲"
+      intro: "攝影／料理人<br>喜歡：料理／旅行／閱讀／手工<br>專長：攝影／記錄"
+    -
+      figure_en_name: "03"
+      name: "簡之郃"
+      intro: "空間氛圍／視覺規劃<br>創作一個風景，來自成長的土地、出走的文化衝擊、閒蕩的生活而醞釀的養分……"
+-
+  en_name: "lelemu"
+  slogan: "他回到家鄉，開發屬於台中的生活木器物"
+  name: "樂樂木／樂物文創股份有限公司"
+  video: "https://www.youtube.com/watch?v=WLpfR1nmGs0"
+  map: "taichung"
+  location: "台中市"
+  address: "台中市北屯區宜文街 9 號 5 樓"
+  category: "生活工藝"
+  since: "2012"
+  website: ""
+  facebook_page: "https://www.facebook.com/LeLeMu?ref=hl"
+  preface: "樂樂木希望扮演一個透過設計與木工匠師們交流的平台，就像村里間熱鬧的雜貨店，展售經過設計爾後呈現的木生活器物，用樸實的手感工藝結合生活的使用，過一種「樂於與木為伍」的樂生活態度。"
+  member_amount: "1~3 人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "劉孟宜"
+      intro: "豐原長大的小孩，念設計，在工作十幾年後回到家鄉尋找還在操作木藝加工的師傅們，合作開發屬於台中的生活木器物。"
+-
+  en_name: "wildland"
+  slogan: "熱愛繪畫的女孩親手製衣，呈現自然樸實的原始質感"
+  name: "野地"
+  video: false
+  map: "miaoli"
+  location: "苗栗縣"
+  address: "苗栗縣造橋鄉造橋村國光新城 2-5 號"
+  category: "生活工藝"
+  since: "2014"
+  website: "http://mei-daisymei.blogspot.tw"
+  facebook_page: "https://www.facebook.com/meinachenwildland?pnref=lhc"
+  preface: "「野地」成立於 2013 年，一方面向給予生命養分與創作靈光的大自然致敬，另一方面更是希望自己的生活能像野地裡的生命一般，不受拘束，自由地生長出燦爛的花朵。"
+  member_amount: "一人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "陳梅娜"
+      intro: "一個 25 歲的小女生，住在苗栗縣的小鄉下，大學讀的是傳播科系，因此藉由這個窗口接觸到美學的世界。大三因為一堂實習記者的必修課，認識許多嘉義地區的藝術工作者，得到許多啟發，便開始畫畫、作裝置、學習服裝製作與編織。本以為只是生活中多了一件可以投注熱情的興趣，卻在出社會一年後仍覺得生活找不到目標十分困頓之時，轉為願意用一輩子去經營的職業，於是在 2014 年成立品牌──野地，使用和諧配色與簡約美感，在生活環境中汲取靈感，商品多與自然元素有所結合，期待能繼續在自己選擇的道路上投注熱情，打破框架讓生活更多元。"
+-
+  en_name: "jenho"
+  slogan: "小學老師辭去工作，回到家鄉延續父親養殖事業"
+  name: "仁和鮑魚"
+  video: "https://www.youtube.com/watch?v=rrqPWDq7Cj8"
+  map: "newtaipeicity"
+  location: "新北市"
+  address: "新北市貢寮區仁和路 9-2 號"
+  category: "在地滋味"
+  since: "1986"
+  website: ""
+  facebook_page: "https://www.facebook.com/pages/%E5%8F%B0%E7%81%A3%E9%AE%91%E9%AD%9A-%E4%BB%81%E5%92%8C%E9%AE%91%E9%AD%9A/392205507580293"
+  preface: "毅然決然辭去了小學老師的工作，峰哥回到自家的養殖場，與父親一起重新起步。一個契機，父親的朋友給了他一些鮑魚苗，父子倆靠著以往養殖九孔的技術，成功培育了品質高檔的正港台灣鮑魚。"
+  member_amount: "一個嚴父，兩個年輕人，一座鮑魚養殖場"
+  member:
+    -
+      figure_en_name: "01"
+      name: "吳慈峰"
+      intro: "曾經是小學老師，返鄉陪爸爸一起打拼，延續本土養殖，發揚在地文化。"
+    -
+      figure_en_name: "02"
+      name: "阿銘"
+      intro: "國小畢業後便離開家鄉求學，一直到目前，在高雄醫學大學唸藥學博士班，所以對家鄉特別有感情，也打算畢業後返鄉，為家裡的養殖業繼續打拚，也想為蕭條的家鄉努力，讓更多人知道貢寮的文化及在地特色。"
+-
+  en_name: "southeastlibrary"
+  slogan: "書店不只是書店，帶來的是一整個世界"
+  name: "燦爛時光東南亞主題書店"
+  video: "https://www.youtube.com/watch?v=WMxAAp6CVko"
+  map: "newtaipeicity"
+  location: "新北市"
+  address: "新北市中和區興南路一段135巷1號"
+  category: "社會創新"
+  since: "2015"
+  website: "https://www.youtube.com/channel/UCSFqv_iO-LCqkW8UyMEdbZQ"
+  facebook_page: "https://www.facebook.com/southeastliberary"
+  preface: "「燦爛時光」希望交的朋友，不只緬甸族群、不只東南亞移民工，而是包括所有的異鄉人、本地人。希望異鄉人能在此到自己的燦爛時光，也希望本地人能從這裡發現世界的多元與美妙。"
+  member_amount: "一間書店，整個世界"
+  member:
+    -
+      figure_en_name: "01"
+      name: "張正"
+      intro: "前《四方報》總編輯，第八屆《Keep Walking 夢想資助計畫》獲獎者，2015 年發起「帶一本自己看不懂的書回台灣」運動，現為「燦爛時光」東南亞主題書店負責人。張正是台語不輪轉的台灣人，投身東南亞研究與行動十餘年，希望本地人與異鄉人，都能在台灣找到自己的燦爛時光。"
+    -
+      figure_en_name: "02"
+      name: "蔡雅婷"
+      intro: "關鍵評論網 2015 年度未來大人物，觀察入微，多情善感。"
+    -
+      figure_en_name: "03"
+      name: "吳庭寬"
+      intro: "第十屆流浪者計畫獲獎人，個子不大，心思很遠，來自屏東，南島為家。"
+    -
+      figure_en_name: "04"
+      name: "陳阿凱"
+      intro: "長髮披肩，來去如風，熱情澎湃，老少咸宜。"
+    -
+      figure_en_name: "05"
+      name: "Joy"
+      intro: "大學讀心理，研究所念體育，到處都跑過，什麼都會修。"
