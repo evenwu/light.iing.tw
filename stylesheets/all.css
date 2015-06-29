@@ -373,7 +373,7 @@ tbody.collapse.in { display: table-row-group; }
 
 .tile_primary { position: relative; border-bottom: 0; height: 100%; }
 .tile_primary .tile-title { position: absolute; top: 96px; padding: 0 24px; font-size: 18px; line-height: 24px; margin-bottom: 24px; }
-.tile_primary .tile-icon { padding-bottom: 12px; text-indent: -119988px; overflow: hidden; text-align: left; background-image: url('/images/local-light-logotype.png?1434313897'); background-repeat: no-repeat; background-position: 50% 50%; width: 244px; height: 90px; background-image: none, url('/images/local-light-logotype.svg?1434313897'); background-position: center center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; }
+.tile_primary .tile-icon { padding-bottom: 12px; text-indent: -119988px; overflow: hidden; text-align: left; background-image: url('/images/local-light-logotype.png?1435137840'); background-repeat: no-repeat; background-position: 50% 50%; width: 244px; height: 90px; background-image: none, url('/images/local-light-logotype.svg?1435137840'); background-position: center center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; }
 .tile_primary .tile-content { position: absolute; bottom: 24px; padding: 0 24px; }
 
 .tile_event .tile-icon, .tile_submit .tile-icon { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-size: contain; background-repeat: no-repeat; background-position: center center; }
@@ -430,7 +430,7 @@ tbody.collapse.in { display: table-row-group; }
 
 .header { position: absolute; top: 0; left: 0; right: 0; z-index: 1000; padding: 12px 14px; }
 .header .logo { margin-bottom: 0px; font-size: 24px; line-height: 24px; font-weight: bold; }
-.header .logo a { display: block; text-indent: -119988px; overflow: hidden; text-align: left; background-image: url('/images/local-light-web-logo.png?1434313897'); background-repeat: no-repeat; background-position: 50% 50%; width: 70px; height: 65px; background-image: none, url('/images/local-light-web-logo.svg?1434313897'); background-position: center center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; color: white; }
+.header .logo a { display: block; text-indent: -119988px; overflow: hidden; text-align: left; background-image: url('/images/local-light-web-logo.png?1435137840'); background-repeat: no-repeat; background-position: 50% 50%; width: 70px; height: 65px; background-image: none, url('/images/local-light-web-logo.svg?1435137840'); background-position: center center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; color: white; }
 .header .logo a:hover { text-decoration: none; }
 @media (min-width: 640px) { .header { padding: 24px; } }
 @media (min-width: 1025px) { .header { padding: 24px 120px; } }
@@ -569,11 +569,12 @@ tbody.collapse.in { display: table-row-group; }
 .team .team-info-card .team-name { font-size: 24px; line-height: 30px; color: #444444; }
 .team .team-info-card .team-location { font-size: 13px; line-height: 24px; font-weight: bold; color: #666666; }
 .team .team-info-card .team-info-list { list-style: none; margin: 12px 0 0; padding: 12px 0 0; border-top: 1px solid #dddddd; }
-.team .team-info-card li { margin-bottom: 12px; }
-.team .team-info-card .label { display: block; width: 100px; font-size: 13px; line-height: 24px; font-weight: bold; color: #666666; }
-.team .team-info-card .info-content { display: block; font-size: 15px; line-height: 24px; white-space: nowrap; overflow: hidden; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis; text-overflow: ellipsis; }
-.team .team-info-card .info-content:empty { pointer-events: none; }
-.team .team-info-card .info-content:empty:before { content: "目前尚無資料"; color: #aaaaaa; }
+.team .team-info-card li { margin-bottom: 12px; padding: 3px 0; }
+.team .team-info-card li:after { content: ""; display: table; clear: both; }
+.team .team-info-card .label { display: block; margin-bottom: 3px; width: 100px; font-size: 13px; line-height: 18px; font-weight: bold; color: #666666; }
+.team .team-info-card .info-content { display: block; font-size: 15px; line-height: 18px; }
+.team .team-info-card .info-content span:empty, .team .team-info-card .info-content a:empty { pointer-events: none; }
+.team .team-info-card .info-content span:empty:before, .team .team-info-card .info-content a:empty:before { content: "目前尚無資料"; color: #aaaaaa; }
 @media (min-width: 640px) { .team .team-cover { padding: 0 48px; }
   .team .team-slogan.auto-break-text { font-size: 32px; line-height: 36px; margin-bottom: 12px; }
   .team .team-name { font-size: 20px; line-height: 24px; }
@@ -587,18 +588,18 @@ tbody.collapse.in { display: table-row-group; }
   .team .team-content ul, .team .team-content ol { margin-top: 36px; margin-bottom: 36px; }
   .team .team-intro { margin-bottom: 48px; font-size: 18px; line-height: 27px; }
   .team .team-intro p { margin-bottom: 36px; font-size: 20px; line-height: 32px; }
-  .team .team-info-card li { margin-bottom: 0px; }
-  .team .team-info-card .label { display: inline-block; font-size: 15px; line-height: 26px; font-weight: normal; }
-  .team .team-info-card .info-content { display: inline-block; font-size: 15px; line-height: 26px; } }
+  .team .team-info-card li { margin-bottom: 0px; padding: 6px 0; }
+  .team .team-info-card .label { float: left; margin-bottom: 0px; font-size: 15px; line-height: 18px; font-weight: normal; }
+  .team .team-info-card .info-content { overflow: hidden; font-size: 15px; line-height: 18px; } }
 @media (min-width: 1025px) { .team .team-info .location-icon { width: 96px; }
   .team .team-info span { display: inline-block; padding: 0 3px; font-size: 15px; line-height: 18px; font-weight: bold; color: #ccc; }
   .team .team-content .container { max-width: 800px; }
   .team .team-cover { height: 90vh; }
   .team .team-slogan.auto-break-text { font-size: 40px; line-height: 42px; margin-bottom: 12px; }
   .team .team-name { font-size: 22px; line-height: 24px; color: #ddd; }
-  .team .team-info-card .team-photo { float: left; display: block; max-width: 300px; width: 100%; height: auto; }
-  .team .team-info-card .team-info-inner { width: calc(100% - 300px ); }
-  .team .team-info-card .info-content { vertical-align: top; width: calc(100% - 100px ); } }
+  .team .team-info-card { padding-left: 300px; position: relative; }
+  .team .team-info-card .team-photo { position: absolute; display: block; left: 0; top: 0; bottom: 0; width: 300px; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-position: center; background-repeat: no-repeat; }
+  .team .team-info-card .team-info-inner { width: 100%; } }
 @media (min-width: 1512px) { .team .team-slogan.auto-break-text { font-size: 48px; line-height: 48px; margin-bottom: 12px; }
   .team .team-name { font-size: 24px; line-height: 24px; color: #ddd; } }
 
@@ -699,7 +700,7 @@ tbody.collapse.in { display: table-row-group; }
   .activity .activity-item:nth-child(4n+1) { clear: left; } }
 
 .submit-page .join-local-light { display: block; max-width: 400px; line-height: 0; text-indent: -119988px; overflow: hidden; text-align: left; margin: 0 auto 24px; max-width: 350px; width: 75%; }
-.submit-page .join-local-light:after { content: ""; display: block; text-indent: -119988px; overflow: hidden; text-align: left; background-image: url('/images/join-local-light-big.png?1434310030'); background-repeat: no-repeat; background-position: 50% 50%; width: 400px; height: 287px; background-image: none, url('/images/join-local-light-big.svg?1434310030'); background-position: center center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; width: 100%; height: 0; padding-top: 71.75%; }
+.submit-page .join-local-light:after { content: ""; display: block; text-indent: -119988px; overflow: hidden; text-align: left; background-image: url('/images/join-local-light-big.png?1435137840'); background-repeat: no-repeat; background-position: 50% 50%; width: 400px; height: 287px; background-image: none, url('/images/join-local-light-big.svg?1435137840'); background-position: center center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; width: 100%; height: 0; padding-top: 71.75%; }
 @media (min-width: 640px) { .submit-page .join-local-light { margin: 0 auto 48px; } }
 
 @media (min-width: 1025px) { .scale-content .message-page .page-inner { min-height: 75vh; } }

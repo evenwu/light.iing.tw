@@ -571,8 +571,8 @@
   name: "茶日子 Dae by Day"
   video: false
   map: "taipei"
-  location: "台北"
-  address: "台北"
+  location: "台北市"
+  address: "台北市"
   category: "在地滋味"
   since: "2014"
   website: ""
@@ -918,3 +918,72 @@
       figure_en_name: "05"
       name: "Joy"
       intro: "大學讀心理，研究所念體育，到處都跑過，什麼都會修。"
+-
+  en_name: "inbloom"
+  slogan: "三個高中美術班同學，用網版印花呈現美好時代"
+  name: "印花樂藝術設計有限公司"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市大同區迪化街一段 32 巷 10 號 5 樓"
+  category: "生活工藝"
+  since: "2015"
+  website: "http://www.inblooom.com"
+  facebook_page: "https://www.facebook.com/inblooom"
+  preface: "「印花樂」由三位新生代的創作者成立於 2008 年的台北。設計印花布、以及各式印花產品；創作靈感來自自身在台灣的成長記憶、生態關懷、以及生活中的尋常事物。用所學的版畫專業，透過網版印花的方式呈現每個時代的美好。"
+  member_amount: "三個創辦人、十五個工作夥伴、兩間直營店、一間直營專櫃"
+  member:
+    -
+      figure_en_name: "01"
+      name: "邱瓊玉"
+      intro: "畢業於國立台北藝術大學美術學系，主修繪畫，熱愛攝影。印花樂的負責人。"
+    -
+      figure_en_name: "02"
+      name: "沈奕妤"
+      intro: "畢業於國立台灣師範大學美術學系，主修設計，平時喜歡蒐集各種藝文訊息。印花樂的設計師。"
+    -
+      figure_en_name: "03"
+      name: "蔡玟卉"
+      intro: "畢業於國立台北藝術大學美術創作研究所，主修版畫，興趣是研究老玩具。印花樂的財務行政、課程設計。"
+-
+  en_name: "thofood"
+  slogan: "走過抗癌歷程，科技老闆打造安心食材"
+  name: "天和鮮物"
+  video: "https://www.youtube.com/watch?v=f0VrgyUaoVM"
+  map: "penghu"
+  location: "澎湖縣西嶼鄉"
+  address: "澎湖縣西嶼鄉"
+  category: "在地滋味"
+  since: "2003"
+  website: "http://www.thofood.com"
+  facebook_page: "https://www.facebook.com/thofood"
+  preface: "在 1980 年代搭上科技業蓬勃發展的列車的劉天和，卻在 48 歲時發現罹患了大腸癌，八次手術後大腸全部被切除，只能吃最好消化的魚肉，但他發現健康無毒的食材難以取得，因此在病床上許下願望，決心要提供健康的食物給大眾。"
+  member_amount: "海上牧場 ＋ 食品加工廠 ＋ 很多販售據點"
+  member:
+    -
+      figure_en_name: "01"
+      name: "劉天和"
+      intro: "天和鮮物董事長，台中大安鄉人，自小家境清寒，1963 年葛樂禮颱風沖掉家產後，家境更為貧窮，小學畢業後就離家北上做冷氣空調維修學徒，一直到 24 歲退伍之後，向舅舅借了五萬元開始創業。"
+-
+  en_name: "lolatfo"
+  slogan: "受到丹麥家具啟發，決心製作令人感動的好家具"
+  name: "路力設計有限公司"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市"
+  category: "生活工藝"
+  since: "2014"
+  website: "http://www.lolat.co"
+  facebook_page: "https://www.facebook.com/lolatfo"
+  preface: "路力取自於台語的「Lo Lat」，是台灣老一輩人對彼此付出的勞力訴說「謝謝」的問候。台灣其實有許多藏匿於巷弄間的工匠師傅們，擁有一身好技藝。而 Lo Lat 期許自己的手藝能日益精進，也想找到這些工匠師傅們並說聲：Lo Lat！ "
+  member_amount: "2人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "陳奕夫"
+      intro: "擔任木器開發。曾在科技業擔任工業設計師，學習了兩年木工，受到北歐與日本那一份對製造木質家具的態度，決心將自己的設計付諸實現，除了學木工以瞭解材料的各種可能和技術，也希望能帶入現代設計思維，作品中常運用積層曲木，呈現作品獨特的線條和韻味。"
+    -
+      figure_en_name: "02"
+      name: "許家毓"
+      intro: "擔任陶器開發。過去專職於生活用品設計工作，有感於追求大量生產對各行各業所帶來的衝擊，希望回頭透過陶器為媒介，為生活用品注入更多手作痕跡，也希望透過雙手與台灣當地工廠、職人合作發掘出陶器更多的可能性。"
