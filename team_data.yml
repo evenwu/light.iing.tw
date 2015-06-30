@@ -967,8 +967,8 @@
 -
   en_name: "lolatfo"
   slogan: "受到丹麥家具啟發，決心製作令人感動的好家具"
-  name: "路力設計有限公司"
-  video: false
+  name: "路力家器具"
+  video: "https://www.youtube.com/watch?v=mjmeLHLqDpA"
   map: "taipei"
   location: "台北市"
   address: "台北市"
@@ -987,3 +987,80 @@
       figure_en_name: "02"
       name: "許家毓"
       intro: "擔任陶器開發。過去專職於生活用品設計工作，有感於追求大量生產對各行各業所帶來的衝擊，希望回頭透過陶器為媒介，為生活用品注入更多手作痕跡，也希望透過雙手與台灣當地工廠、職人合作發掘出陶器更多的可能性。"
+-
+  en_name: "sweetburden"
+  slogan: "台灣首創以蠶絲結合牛皮，將台灣皮革推向世界之窗"
+  name: "SWEETBURDEN 詩威博登"
+  video: false
+  map: "kaohsiung"
+  location: "高雄市"
+  address: "高雄市鳥松區大昌路 336 號"
+  category: "生活工藝"
+  since: "2015"
+  website: ""
+  facebook_page: "https://www.facebook.com/mellowsupply"
+  preface: "SWEETBURDEN 將蠶絲皮帶入市場，已有三年餘。直到現在，每當客人拿起皮件在眼前端詳，總會不約而同地反覆擺動雙手，追尋著絲光的流動變化。"
+  member_amount: "12 個人的精品皮件團隊"
+  member:
+    -
+      figure_en_name: "01"
+      name: "黃甲登"
+      intro: "高雄皮革廠長大，役畢旅居美國多年後 30 歲回台灣從事皮革家業。與團隊共同開發蠶絲牛皮，決心以這專利產品走出能代表台灣的品牌之路。"
+    -
+      figure_en_name: "02"
+      name: "林欣諒"
+      intro: "高雄人，十年以上製作皮件經驗，2013 年高雄 CAD 城市精品得獎者。有信心帶領 SWEETBURDEN 在國際精品皮建舞台上發光發熱。"
+    -
+      figure_en_name: "03"
+      name: "王婉諭"
+      intro: "高雄人，2014年獲經濟部工業局審核通過進駐南部時尚基地之皮件設計師。"
+    -
+      figure_en_name: "04"
+      name: "劉又寧"
+      intro: "高雄人，東海美術研究所畢，歷任平面設計、插畫等視覺藝術相關工作，SWEETBURDEN 視覺總監。"
+-
+  en_name: "theedgeman"
+  slogan: "邊緣人辦市集，用商品傳達理念與能量"
+  name: "邊緣人展演市集"
+  video: "https://www.youtube.com/watch?v=_L2SSl_IRks"
+  map: "taipei"
+  location: "台北市"
+  address: "台北市"
+  category: "藝術文化"
+  since: "2009"
+  website: ""
+  facebook_page: "https://www.facebook.com/theedgeman"
+  preface: "當初，一群為創作而苦窮的設計系同學即將畢業，卻又擔心被現實社會環境吞噬理想，所以決定自行創造體制外的展演平台，也因此將自己定義為「邊緣人」，希望可以讓更多不同族群參與，和創作者交流。"
+  member_amount: "3 個血汗主辦，100 攤以上血汗攤友"
+  member:
+    -
+      figure_en_name: "01"
+      name: "黃芳瑩"
+      intro: "在你的邊緣"
+    -
+      figure_en_name: "02"
+      name: "黃懷陞"
+      intro: "在邊緣人市集擔任製圖員"
+    -
+      figure_en_name: "03"
+      name: "羅喜哲"
+      intro: "在邊緣人市集擔任人"
+-
+  en_name: "oldroot"
+  slogan: "傳統木工廠老闆開辦工作坊，扭轉了工廠命運"
+  name: "老樹根魔法木工坊"
+  video: "https://www.youtube.com/watch?v=8WqGnPrVy84"
+  map: "taichung"
+  location: "台中市"
+  address: "台中市南區樹義路 63 號"
+  category: "生活工藝"
+  since: "1996"
+  website: "http://www.mutou-wood.com/"
+  facebook_page: "https://www.facebook.com/mutouwoodtw"
+  preface: "傳統木工廠老闆江明偉六年前，接不到訂單面臨關門，一名老外上門想租機器自己做書櫃，意外給了他靈感，開啟老工廠的新生命。如今老工廠變身「老樹根魔法木工坊」，吸引新加坡等外國學生組團來遊學。"
+  member_amount: "一間傳統木工廠、一間教育的工廠、一間文創的工廠"
+  member:
+    -
+      figure_en_name: "01"
+      name: "江明偉"
+      intro: "老樹根實業有限公司總經理、老樹根魔法木工坊執行長"
