@@ -1064,3 +1064,84 @@
       figure_en_name: "01"
       name: "江明偉"
       intro: "老樹根實業有限公司總經理、老樹根魔法木工坊執行長"
+-
+  en_name: "xiaoluosi"
+  slogan: "「讓遊戲玩家做真正的主角！」桌遊團隊打造出歐美風格的精緻遊戲"
+  name: "小螺絲創意"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市中正區西藏路 9 號"
+  category: "藝術文化"
+  since: "2015"
+  website: ""
+  facebook_page: "https://www.facebook.com/xiaoluosi"
+  preface: "來自台灣各地的小螺絲，憑藉著對桌上遊戲的熱血，帶著理想及所學的知識聚在一塊，想為大家找回在 3C 世界中漸漸流失的互動與笑聲，想讓更多的人享受桌遊的純粹歡快。"
+  member_amount: "7 顆小螺絲和一間堆滿桌遊的工作室"
+  member:
+    -
+      figure_en_name: "01"
+      name: "詹凱麟"
+      intro: "新天龍人，板橋區。專職水電維修和打東東，兼職遊戲設計。"
+    -
+      figure_en_name: "02"
+      name: "張朝馮"
+      intro: "假天龍人，專職環境股長，兼職對外 social。"
+    -
+      figure_en_name: "03"
+      name: "林侃威"
+      intro: "天龍魯蛇，專職買水餃，兼職遊戲設計。"
+    -
+      figure_en_name: "04"
+      name: "何達玖"
+      intro: "台北大直人。專職玩遊戲，兼職玩遊戲。"
+    -
+      figure_en_name: "05"
+      name: "鍾文君"
+      intro: "土生土長美濃人。專職午餐訂便當和吃零食，兼職粉絲專頁小編及活動發想。"
+-
+  en_name: "lochin"
+  slogan: "延續阿嬤手藝，串聯雲林食材的在地滷味"
+  name: "螺情滷味"
+  video: "https://www.youtube.com/watch?v=mKUClk0URi8"
+  map: "yunlin"
+  location: "雲林縣"
+  address: "雲林縣西螺鎮延平路74號"
+  category: "在地滋味"
+  since: "2010"
+  website: "http://www.lo-ching-food.com.tw/"
+  facebook_page: "https://zh-tw.facebook.com/lochingfood"
+  preface: "「螺情」為「西螺情」，螺情董事長因感念雲林擁有眾多得天獨厚的食材資源，卻未深加利用，因此飲水思源之念下於西螺設立「螺情」品牌，延續了創辦人阿珠嬤的滷味。"
+  member_amount: "18個充滿實踐力的理想青年，一位螺情靈魂人物阿珠嬤，串聯雲林在地特色食材"
+  member:
+    -
+      figure_en_name: "01"
+      name: "鍾紀銘"
+      intro: "雲林在地之子，「螺情」董事長。"
+-
+  en_name: "gopicnicking"
+  slogan: "姊妹們用手作小物與甜點，點綴繽紛世界"
+  name: "去野餐 Go Picnicking"
+  video: false
+  map: "kaohsiung"
+  location: "高雄市"
+  address: "高雄市"
+  category: "藝術文化"
+  since: "2014"
+  website: "http://www.pinkoi.com/store/gopicnicking"
+  facebook_page: "https://www.facebook.com/gopicnicking"
+  preface: "最開始只是擁有各自喜愛的手作項目，單純因為喜好進行創作。偶然發現，比起自己進行手作，也喜歡和大家一起分享每個作品在日常生活中的美好面相。所以我們有了「去野餐」。"
+  member_amount: "三個姊妹、一間廚房、兩間客廳"
+  member:
+    -
+      figure_en_name: "01"
+      name: "吳艾波"
+      intro: "去野餐小廚師"
+    -
+      figure_en_name: "02"
+      name: "吳寶咖"
+      intro: "去野餐小鉤針"
+    -
+      figure_en_name: "03"
+      name: "方min"
+      intro: "去野餐戳戳手"
