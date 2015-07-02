@@ -170,3 +170,62 @@ if ( $('.team-video-play').length != 0 ) {
     mainClass: 'mfp-fade'
   });
 }
+
+
+// 偵測是否有分類列表
+if ( $('.team-expo').length != 0 ) {
+
+  // list.js 相關設定
+  var options = {
+    valueNames: ['team_category_value', 'team_location_value'],
+    listClass: 'team-list',
+    page: 12,
+    plugins: [
+      ListPagination({
+        name: "pagination",
+        paginationClass: "pagination",
+        innerWindow: 2,
+        outerWindow: 1
+      })
+    ]
+  };
+
+  var team_list = new List('team-expo', options);
+
+  // 設定 filter 規則
+  var updateList = function(){
+    var category_select_value = $("#category_select_filter").val();
+    var loaction_select_value = $("#location_select_filter").val();
+    if (category_select_value && !loaction_select_value) {
+      team_list.filter(function(item) {
+        return (item.values().team_category_value == category_select_value)
+      });
+    } else if (!category_select_value && loaction_select_value) {
+      team_list.filter(function(item) {
+        return (item.values().team_location_value == loaction_select_value)
+      });
+    } else if (category_select_value && loaction_select_value) {
+      team_list.filter(function(item) {
+        return ((item.values().team_category_value == category_select_value)
+          && (item.values().team_location_value == loaction_select_value))
+      });
+    } else {
+      team_list.filter();
+    }
+
+    // 沒有任何團隊符合篩選結果時，新增資訊
+    if (team_list.visibleItems.length == 0) {
+      $('.team-list').append('<li class="team-list-item_no-result">目前沒有任何團隊，符合篩選結果。<br>請重新選擇分類或地區。<div class="no-result-img"></div></li>')
+    }
+  }
+
+  // 初始化團隊列表，避免頁面在切換上下一頁時，select 保留 filter 結果，但團隊列表卻沒有改善的問題。
+  // updateList();
+  $('.team-expo').removeClass('is-loading');
+
+  $("#category_select_filter, #location_select_filter").change(updateList);
+
+}
+
+
+

@@ -1145,3 +1145,68 @@
       figure_en_name: "03"
       name: "方min"
       intro: "去野餐戳戳手"
+-
+  en_name: "blackwhitecut"
+  slogan: "因為情人，他開了一家深夜點心鋪"
+  name: "深夜黑白切手工點心"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市"
+  category: "在地滋味"
+  since: "2014"
+  website: ""
+  facebook_page: "https://www.facebook.com/blackwhitecut"
+  preface: "深愛台灣也相信愛的存在真理，在這失落的時代裡，仍然有一個我在做夢。「我想美味很難有個精準的定義，但希望自己能傳達給你們的是豐富且炙熱燙口的真心系甜點。」"
+  member_amount: "一個半年輕人在十五坪大的套房"
+  member:
+    -
+      figure_en_name: "01"
+      name: "李奇芳"
+      intro: "嗯，76 年次，來自山城南投，早上是上班族，晚上則變身為黑白切萬事通。"
+-
+  en_name: "fightinhakka"
+  slogan: "自己的母語自己救！新一代客家人用社群網路找回母語的力量"
+  name: "客家小吵 Don't Fight With Me In Hakka"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市松山區民生東路五段 171 號 12 樓之三"
+  category: "藝術文化"
+  since: "2015"
+  website: ""
+  facebook_page: "https://www.facebook.com/Fight.in.Hakka"
+  preface: "母語絕對不是無聊、老舊、屬於上一個世代的東西，它乘載著好多情感、溫度，好多爸媽跟我們的記憶。我想試著讓更多跟我一樣的失落客家孩子，重新注意到母語的美麗，結合社群網路，用不同的創意方法找回母語的力量。"
+  member_amount: "2 個上班族、1 個研究生、一台電腦、一張繪圖板。"
+  member:
+    -
+      figure_en_name: "01"
+      name: "聲優妹"
+      intro: "現為北藝大研究生的聲優妹，是從小跟爸媽說 Hakka 的道地苗栗客家人，在團隊中負責客語真人發音。時而嬌媚時而霸氣的客家嗓音，讓她在粉絲專頁中擁有高人氣，常有網友對聲優妹趁亂告白。"
+    -
+      figure_en_name: "02"
+      name: "吵爸"
+      intro: "雖然負責團隊中的插畫與文字，但吵爸其實從來沒學過繪畫，只是一個朝九晚七的普通上班族。雖然是客家孩子，卻幾乎完全不會說客家話，過年回花蓮老家因為感受到客家話漸漸消失在自己這一代，而開始了【客家小吵】的創作。"
+    -
+      figure_en_name: "03"
+      name: "吵媽"
+      intro: "爸媽都是苗栗客家人的吵媽，小學時為了參加客語朗讀比賽，逼媽媽教自己學會說流利的客語。在團隊中負責客語教學資料蒐集，與吵爸結婚後嚴厲地督促客語講很爛的吵爸持續學習。"
+-
+  en_name: "huadongfruit"
+  slogan: "扮演農民的經紀人，打造在地農產新通路"
+  name: "花東菜市集"
+  video: "https://www.youtube.com/watch?v=yx3y8b3gkaE"
+  map: "hualien"
+  location: "花蓮縣吉安鄉"
+  address: "花蓮縣吉安鄉"
+  category: "在地滋味"
+  since: "2013"
+  website: "http://www.30g.tw/"
+  facebook_page: "https://www.facebook.com/groups/828469557194506/"
+  preface: "新穎科技和傳統農業可以併進同行，相輔相成，讓停滯的農村有著不一樣的新氣息。在都市吸取足夠養份後的年輕人，揮別了大都市的繁華，回到了家鄉，從頭開始耕耘，運用自己的專長，重新認識孕育自己長大的土地。"
+  member_amount: "4 位正職，2 位兼職，一間辦公室加倉庫"
+  member:
+    -
+      figure_en_name: "01"
+      name: "彭昱融"
+      intro: "花蓮吉安人。曾任職於天下雜誌、上下游特約記者，關注食品安全及農業議題。兩年前決心回到家鄉，嘗試行銷花東的農產品，建立自己的品牌，讓農村裡有不一樣的活力和朝氣。"
