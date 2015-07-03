@@ -1210,3 +1210,68 @@
       figure_en_name: "01"
       name: "彭昱融"
       intro: "花蓮吉安人。曾任職於天下雜誌、上下游特約記者，關注食品安全及農業議題。兩年前決心回到家鄉，嘗試行銷花東的農產品，建立自己的品牌，讓農村裡有不一樣的活力和朝氣。"
+-
+  en_name: "emilyjam"
+  slogan: "七年級生向小農請益，研發台灣口味的手工果醬"
+  name: "愛蜜莉手工果醬"
+  video: false
+  map: "newtaipeicity"
+  location: "新北市"
+  address: "新北市樹林區中華路 319 號 12 樓"
+  category: "在地滋味"
+  since: "2011"
+  website: ""
+  facebook_page: "https://www.facebook.com/EmilyJam99"
+  preface: "從完全不懂開始摸索，四處拜訪果農，尋找果醬的好食材，透過和農夫直接交談中學習水果方面的相關知識，希望能做到降低甜度比例，又不失傳統手工果醬美味，經過這一路的反覆調整，才有現在的愛蜜莉手工果醬。"
+  member_amount: "一對夫妻與一個小孩"
+  member:
+    -
+      figure_en_name: "01"
+      name: "徐明君"
+      intro: "堅持手作在地食材。"
+    -
+      figure_en_name: "02"
+      name: "游宣德"
+      intro: "支持在地水果"
+-
+  en_name: "sukilane"
+  slogan: "兩個有著老靈魂的年輕人，訴說老城的故事"
+  name: "舒喜巷"
+  video: "https://www.youtube.com/watch?v=lCrbYjS1azA"
+  map: "newtaipeicity"
+  location: "新北市板橋區"
+  address: "新北市板橋區"
+  category: "藝術文化"
+  since: "2014"
+  website: "http://www.sukilane.com/"
+  facebook_page: "https://www.facebook.com/sukilane.tw"
+  preface: "兩個被人說呆呆的偽文青，組成了舒喜巷團隊，默默拉動理念相同的好朋友，一起把老城區故事說給更多人聽。以「小巷市集」為整合發動力，說「家」的味道，推廣有「老靈魂精神」的青年品牌，策展「老城的夢想」故事。"
+  member_amount: "兩個有老靈魂的年輕人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "黃飛霖"
+      intro: "生活在淡水河岸，喜歡舊城空間內的老靈魂，創辦舒喜巷集結青年的夢想熱忱，說在地的故事。"
+    -
+      figure_en_name: "02"
+      name: "陳文偉"
+      intro: "喜歡有溫度的人事物，愛收集二手老物，喜歡走入故事的台北小巷弄，透過舒喜巷的藝文展演，實踐在地生活。"
+-
+  en_name: "trois"
+  slogan: "不忍毛小孩嚴重過敏，她親手調配毛小孩安心食品"
+  name: "Trois Boulangerie - 三毛烘培坊"
+  video: false
+  map: "kaohsiung"
+  location: "高雄市左營區"
+  address: "高雄市左營區"
+  category: "在地滋味"
+  since: "2014"
+  website: ""
+  facebook_page: "https://www.facebook.com/TroisBoulangerie"
+  preface: "除了配合醫師治療之外，我們開始翻遍所有有關寵物的營養書籍及資料，每天製作屬於他的鮮食及零食，從吃的開始把關，改善到沒有吃藥也可以正常生活，我們堅持，毛小孩也要食用天然、健康且無添加的食品，他們值得更好的生活品質。"
+  member_amount: "一個年輕人、一間工作室"
+  member:
+    -
+      figure_en_name: "01"
+      name: "許彩金"
+      intro: "烘培坊負責人，三個毛孩子的媽"
