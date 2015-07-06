@@ -1275,3 +1275,73 @@
       figure_en_name: "01"
       name: "許彩金"
       intro: "烘培坊負責人，三個毛孩子的媽"
+-
+  en_name: "jhushantea"
+  slogan: "來自越南的新移民姊妹，在南投山上手工採撿優質茶葉"
+  name: "南投竹山新移民採茶班"
+  video: "https://www.youtube.com/watch?v=YMFmf57SUQ4"
+  map: "nantou"
+  location: "南投縣竹山鎮"
+  address: "南投縣竹山鎮"
+  category: "在地滋味"
+  since: "2008"
+  website: ""
+  facebook_page: ""
+  preface: "來自越南的寶蓮和美蘭，十幾年前移民到台灣，在茶園工作而相識，寶蓮是採茶班班長，美蘭負責撿茶枝班。採茶農忙期，事頭很多，她們統籌調度姊妹們的工作，常常一上山就是一個月的時間。"
+  member_amount: "一個採茶班"
+  member:
+    -
+      figure_en_name: "01"
+      name: "曾寶蓮"
+      intro: "1976 年次，來自越南，採茶班班長，2000 年左右嫁來台灣。"
+    -
+      figure_en_name: "02"
+      name: "農美蘭"
+      intro: "1981 年次，來自越南，撿茶枝班，2000 年嫁來台灣。"
+-
+  en_name: "liuyingtaoxiu"
+  slogan: "強調「取之自然用之自然」，做出讓茶水好喝的茶杯"
+  name: "六穎陶秀"
+  video: false
+  map: "tainan"
+  location: "台南市"
+  address: "台南市官田區大崎里 59-3 號"
+  category: "生活工藝"
+  since: "2000"
+  website: ""
+  facebook_page: "https://www.facebook.com/liuyingtaoxiu"
+  preface: "延續陶器存在的意義不在於只是裝盛，她代表著生活的品質、美感的培養。喝一口好茶，除了挑選極好茶葉，好的茶器更是不可缺少。能將陶加入生活是一件很幸福的事情！"
+  member_amount: "2 位長者與 4 位小孩組成的一個陶藝工作室"
+  member:
+    -
+      figure_en_name: "01"
+      name: "慧萍"
+      intro: "六穎陶秀對外市集活動的主要負責人，創作品以手作為主。"
+-
+  en_name: "moyage"
+  slogan: "闖蕩業界十年，三個基隆人回鄉開創行動導覽服務"
+  name: "行動家科技有限公司"
+  video: false
+  map: "keelungcity"
+  location: "基隆市"
+  address: "基隆市中正路 342 號"
+  category: "藝術文化"
+  since: "2014"
+  website: "http://www.moyage-tech.com/"
+  facebook_page: "https://www.facebook.com/moyage.tech"
+  preface: "「導覽家」行動導覽服務平台，透過主動推播的特性，可以輕易的將資訊傳遞到人們手中。只要來到與「導覽家」合作的展覽或是觀光景點，參觀者不必掃 QRCODE 或租用語音導覽機，只要一個 app 就能得到所有資訊。"
+  member_amount: "三個中年人，一個 APP"
+  member:
+    -
+      figure_en_name: "01"
+      name: "Wendy"
+      intro: "畢業於圖書館系。曾任職誠品網路書店、遠傳電子書平台。喜歡閱讀、喜歡與文化推廣相關的工作內容。"
+    -
+      figure_en_name: "02"
+      name: "Polo"
+      intro: "在中國工作超過十年，選擇回到台灣創業；雖然看著中國飛速成長，但相信文化應用終須在地深耕方能看到果實。"
+    -
+      figure_en_name: "03"
+      name: "Smile"
+      intro: "我存在／美學經濟，美力年代<br>我努力／life＠work<br>我喜歡／用心，看世界<br>我相信／台灣，最美的風景，是人"
+
