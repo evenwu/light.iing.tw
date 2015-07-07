@@ -1315,8 +1315,24 @@
   member:
     -
       figure_en_name: "01"
+      name: "吳健國"
+      intro: "工作室創立者。陶藝創作教學之前，曾為玩具製作。現在主要為釉藥的研究。"
+    -
+      figure_en_name: "02"
+      name: "胡秀珍"
+      intro: "工作室創立者。早期為新娘禮服設計師。創作品以完全手作為主。"
+    -
+      figure_en_name: "03"
       name: "慧萍"
-      intro: "六穎陶秀對外市集活動的主要負責人，創作品以手作為主。"
+      intro: "手作為主。六穎陶秀對外市集活動的主要負責人。"
+    -
+      figure_en_name: "04"
+      name: "聖凱"
+      intro: "拉坯為主。工作室中的機動人員。"
+    -
+      figure_en_name: "05"
+      name: "慧齊"
+      intro: "手作為主。工作室一切活動的主要記錄。"
 -
   en_name: "moyage"
   slogan: "闖蕩業界十年，三個基隆人回鄉開創行動導覽服務"
@@ -1344,4 +1360,64 @@
       figure_en_name: "03"
       name: "Smile"
       intro: "我存在／美學經濟，美力年代<br>我努力／life＠work<br>我喜歡／用心，看世界<br>我相信／台灣，最美的風景，是人"
-
+-
+  en_name: "wanligreen"
+  slogan: "不願見到台灣環境被破壞，他辭工作投身環保事業"
+  name: "萬里綠生活"
+  video: false
+  map: "tainan"
+  location: "台南市"
+  address: "台南市新營區三民路 53-1 號"
+  category: "社會創新"
+  since: "2006"
+  website: "http://www.greenlifevery.com.tw"
+  facebook_page: "https://www.facebook.com/wanliegreen.sy"
+  preface: "從資源循環再生運動開始，成立了一個間資源回收廠與一間二手物寄賣小舖，將還有價值的東西，透過有效的處理再利用，讓每樣東西都獲得最大的使用，以減少地球資源的消耗。"
+  member_amount: "一個團隊、數個農場、七個合作取貨點"
+  member:
+    -
+      figure_en_name: "01"
+      name: "曾彥翔"
+      intro: "以推廣環保、永續生活為目標，致力於尋找健康、幸福、永續的生活方式。期待透過整合自然生鮮（萬里綠家庭）、永續設計（自然潮居）、循環經濟（萬里環保與樂挖寶二手）、環境教育（大自然教室），提供台南人，食、用、育、樂全方位的綠生活服務。"
+-
+  en_name: "atom3d"
+  slogan: "台灣製造的3D列印機，掀起自造者風潮"
+  name: "ATOM 3D"
+  video: false
+  map: "taipei"
+  location: "台北市中山區"
+  address: "台北市中山區民生東路 2 段 122 號 2 樓"
+  category: "生活工藝"
+  since: "2012"
+  website: "http://www.atom3dp.com/"
+  facebook_page: "https://www.facebook.com/atom3D"
+  preface: "ATOM 團隊 2013 年底以全亞洲第一台 Delta 的 3D 印表機成功的募資成功，一年多來彙整從幾百位用戶身上得到的 feedback 來投入研發更新一代產品，將所有的優點強化，並且改善不足的地方，前前後後用一年的時間開發出新一代的機器 ATOM 2.0。"
+  member_amount: "10 個年輕人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "李曜任"
+      intro: "RCA 工業設計碩士、前聯想設計師"
+-
+  en_name: "takumi"
+  slogan: "夫妻協力，推廣傳統製鞋工藝"
+  name: "匠 tAKUMI 職人專門所"
+  video: false
+  map: "taipei"
+  location: "台北市中正區"
+  address: "台北市中正區南昌路一段 126 巷 4 號 1 樓"
+  category: "生活工藝"
+  since: "2014"
+  website: "http://www.takumi.tw/"
+  facebook_page: "https://www.facebook.com/takumi.tw"
+  preface: "除了交出令客人滿意的手工訂製鞋，我們還想要做到「傳承」的工作，將傳統製鞋工藝推廣給台灣年輕人，透過教學課程讓更多人體驗製鞋的樂趣，並運用之前的電子商務以及品牌操作的行銷經驗，將台灣各領域的手作產品一起推廣出去。"
+  member_amount: "一對夫妻一間店"
+  member:
+    -
+      figure_en_name: "01"
+      name: "洪藝瑾"
+      intro: "曾任職於 Yahoo！和 Sony 擔任電子商務與品牌操作的專業行銷人，對於鞋業和皮件等傳統工藝有一定程度的瞭解，能獨立完成皮件作品。"
+    -
+      figure_en_name: "02"
+      name: "楊禮謙"
+      intro: "曾任職於日商擔任自動化控制的軟體工程師，具備獨立完成製鞋的開發生產能力。"
