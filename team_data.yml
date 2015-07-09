@@ -1494,3 +1494,76 @@
       figure_en_name: "01"
       name: "黃盛璘"
       intro: "在 50 歲之前，是固執的金牛座，凡事相信毅力、耐力和意志力。50 歲之後，做一位助人者，發現只憑毅力、耐力和意志力是沒辦法幫助人的，得要先發展「同理心」。"
+-
+  en_name: "violinhouse"
+  slogan: "設計師和提琴師合作，開創本土小提琴品牌"
+  name: "Violin House"
+  video: false
+  map: "taichung"
+  location: "台中市"
+  address: "台中市霧峰區坑口里光復新村"
+  category: "生活工藝"
+  since: "2015"
+  website: ""
+  facebook_page: ""
+  preface: "近年來，黃聖彥想把提琴製作工藝的技術發揚光大，開始教導學生製作小提琴。把工藝傳承作為目標，相信以社會企業跟支持文創產業的方式會有所成功，冀望未來提琴工藝能使台灣躍上國際。"
+  member_amount: "4 個執著的人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "蘇德城"
+      intro: "專攻產品設計師、文創設計。"
+    -
+      figure_en_name: "02"
+      name: "連繡華"
+      intro: "南投旅遊達人。"
+    -
+      figure_en_name: "03"
+      name: "黃聖彥"
+      intro: "製琴師。"
+    -
+      figure_en_name: "04"
+      name: "曾彥學"
+      intro: "小提琴教學。"
+-
+  en_name: "xianger2015"
+  slogan: "落葉歸根的年輕人，邀集各方藝術創作者為桃園增豔"
+  name: "想貳藝文空間"
+  video: false
+  map: "taoyuan"
+  location: "桃園市"
+  address: "桃園市中壢區大同路 74 號"
+  category: "藝術文化"
+  since: "2015"
+  website: ""
+  facebook_page: "https://www.facebook.com/xianger2015"
+  preface: "我們的理念是『工作空間在哪裡，藝術文化就到哪裡』，當代藝術不應該曲高和寡，我們想要打破藝術與非藝術的藩籬，增加空間的更多可能性，不會有任何規矩限制。如此能幫忙其他創作者，也希望與民眾會有更多文化交流。"
+  member_amount: "一間小店、兩位年輕人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "陳鈺旻"
+      intro: "努力讓想貳開得起來的人。"
+    -
+      figure_en_name: "02"
+      name: "郭喆超"
+      intro: "努力維持想貳營運的人。"
+-
+  en_name: "tianyushiuan"
+  slogan: "果醬男孩回到家鄉，做出懷念好滋味"
+  name: "甜玉軒"
+  video: "https://www.youtube.com/watch?v=u4vqPLbg5UQ"
+  map: "tainan"
+  location: "台南市"
+  address: "台南市柳營區旭山里新吉庄 47-16 號"
+  category: "在地滋味"
+  since: "2014"
+  website: ""
+  facebook_page: "http://www.facebook.com/tianyushiuan"
+  preface: "韡勳小時候在家鄉，常常喝著酸酸甜甜的桑葚果汁。長大去台中讀書後，卻再也碰不到以前這懷念的童年好滋味。後來桑葚樹不見了，阿嬤也不煮了，韡勳便決定靠自己重新找回味蕾上的美好記憶，開始動手煮果醬。"
+  member_amount: "一間果醬工作室，一個果醬男孩"
+  member:
+    -
+      figure_en_name: ""
+      name: "林韡勳"
+      intro: "台南柳營一個小山村，有個 24 歲的男孩叫韡勳，因為想念兒時記憶中阿嬤製作的果醬，離開了台中城市，走訪台灣各地農場，開始找尋記憶中的水果味道，用果醬賦於在地水果新的價值。"
