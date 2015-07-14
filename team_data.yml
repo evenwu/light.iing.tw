@@ -1619,8 +1619,8 @@
   name: "鮮乳坊：小農鮮乳直送"
   video: "https://www.youtube.com/watch?v=RDaGxjohZS8"
   map: "changhua"
-  location: "彰化福寶"
-  address: "彰化福寶"
+  location: "彰化縣"
+  address: "彰化縣福寶村"
   category: "在地滋味"
   since: "2015 "
   website: "http://ilovemilk.com.tw/"
@@ -1664,3 +1664,92 @@
       figure_en_name: "09"
       name: "賴冠延"
       intro: "從小就愛喝牛奶，最喜歡的動物也是牛，所以大家都叫我阿牛，因為沒有買到預購鮮乳，於是應徵成為送牛奶的小男孩，現在正式加入鮮乳坊大家庭，成為賣牛奶的小男孩！"
+-
+  en_name: "feity"
+  slogan: "一家人扭轉工廠倒閉危機，自創包包品牌開啟事業第二春"
+  name: "菲堤創意皮工廠"
+  video: "https://www.youtube.com/watch?v=GR4ikzmjMmc"
+  map: "tainan"
+  location: "台南市"
+  address: "台南市南區"
+  category: "生活工藝"
+  since: "1994"
+  website: ""
+  facebook_page: "https://www.facebook.com/feity.house"
+  preface: "曾經不被看好的做法，經過我們一次次改良、變精緻之後，讓「奇怪」變成「奇特」，讓「粗糙」變成「粗曠」。奇怪與奇特、粗糙與粗曠，都只有一字之差，但是這一字之差，花了我們非常多年的時間。"
+  member_amount: "7 人，全部都是自家人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "菲媽"
+      intro: "一個到了 60 歲才開始找尋真正自我價值的台南婦女。早年經歷丈夫外遇，失婚收場，獨自扛起撫養三個孩子的責任。做包包這件事情佔據了她人生的三分之二，努力過活卻一度面臨工廠倒閉，緊接著還發現乳癌三期，面臨人生中最谷底的低潮，一度想要放棄治療。但絕境中逢生機，三個子女回家幫忙將倒閉工廠重新振作，轉型為自創品牌，開始了一連串精采故事。"
+    -
+      figure_en_name: "02"
+      name: "小菲"
+      intro: "主業是美容業，至今已經營業了 12 年。 因為很年輕就創業，過程中累積了很多經商理念與想法，當媽媽的包包工廠面臨倒閉邊緣時，將一些積蓄拿出來投資工廠，再加上哥哥與弟弟的協助，將工廠轉型為自創品牌經營。 小菲說：「這是一口不甘願的氣，為什麼我媽媽一生的舞台就要不見了，不可以！」"
+    -
+      figure_en_name: "03"
+      name: "介峰"
+      intro: "是個浪子回頭的經典款。 本身學習平面設計有一手好功夫，卻在當兵後腦筋打結，做了一連串荒唐事。本來已經與家裡斷了聯絡，卻在一次生命垂危時，老媽媽將兒子救了回來，因為媽媽說：「臭頭也是家己的囝。」目前協助不會電腦的媽媽，將所有打版手稿都電腦化，也負責設計大部分的男用包款。"
+    -
+      figure_en_name: "04"
+      name: "正哲"
+      intro: "是心思最細膩的小兒子。 與兄姊都相差 10 歲以上，所以跟媽媽最貼心。曾在媽媽得知乳癌的隔天，將整頭頭髮剃光光，然後回家跟媽媽說「媽媽不要怕，化療會掉頭髮，我陪妳一起掉。」<br>退伍後全心投入家裡的事業，目前負責管理網路銷售與研發文創商品。"
+-
+  en_name: "msjhbaseballteam"
+  slogan: "紅土上的青春棒球夢，讓嘉義子弟安心打球"
+  name: "嘉義市民生國中青少棒球隊"
+  video: "https://www.youtube.com/watch?v=D0Q4D2l5c-k"
+  map: "chiayicity"
+  location: "嘉義市"
+  address: "嘉義市新民路 601 號"
+  category: "社會創新"
+  since: "1998"
+  website: ""
+  facebook_page: ""
+  preface: "李文傳告訴自己，如果未來有機會要回饋故鄉，從那時候起，回到嘉義培育下一代的棒球員，就是他的夢想；在職棒生涯告一段落後，他決定返回故鄉當教練，而他昔日一手拉拔的徒弟蔡士偉也深受恩師感動，同樣加入民生國中棒球隊教練團隊。在他們的帶領下，提振了該校球隊的實力，球隊也不負眾望，曾贏得全國青少棒錦標賽冠軍，赴美為國爭光。"
+  member_amount: "五十幾名青少棒球員和三位教練"
+  member:
+    -
+      figure_en_name: "01"
+      name: "李文傳"
+      intro: "民生國中棒球隊總教練。<br>中華職棒兄弟象隊創隊元老，中華職棒生涯 132.1 局未投過觸身球，是中華職棒未投過觸身球的投手中投球局數最多的本土球員。此外目前在嘉義市另有經營九州日式拉麵嘉義店。"
+    -
+      figure_en_name: "02"
+      name: "黃振潁"
+      intro: "民生國中棒球隊教練。<br>畢業自台北體育學院棒球隊，為中華棒協 A 級棒球教練，自 1998 年開始擔任教練，1999 年開始回到故鄉嘉義擔任民生國中青少棒教練，多年來培育無數青少棒球員。"
+    -
+      figure_en_name: "03"
+      name: "蔡士偉"
+      intro: "民生國中棒球隊教練。<br>為 1986 年威廉波特少棒賽中華少棒代表隊球員之一，曾為台灣大聯盟嘉南勇士隊及中華職棒興農牛隊球員，參與電影《KANO》演出，片中飾演嘉中隊教練。"
+-
+  en_name: "seafoodporridge"
+  slogan: "不賣海產粥的「熱情海產粥」，發揚台南在地老文化"
+  name: "熱情海產粥"
+  video: "https://www.youtube.com/watch?v=Yot8ceBdlS8"
+  map: "tainan"
+  location: "台南市"
+  address: "台南市中西區新美街 54 號"
+  category: "藝術文化"
+  since: "2014"
+  website: "http://tagacy.weebly.com"
+  facebook_page: "https://www.facebook.com/chuenhingtatami"
+  preface: "如同一碗海產粥，有著豐富的美味配料，我們的組成成分跨領域且多元，由橫跨商管、文學、設計等領域的年輕人所組成。儘管有著不同的專業，我們卻有幾個共通點：都曾經在台南求學過，都深深熱愛著台南，並有著熱誠的使命，想將所學貢獻於社會。"
+  member_amount: "七個熱愛台南的學子、一家老店、一條老街"
+  member:
+    -
+      figure_en_name: "01"
+      name: "程國昊"
+      intro: "清大服科所，是宜蘭人卻熱愛台南這座城市。"
+    -
+      figure_en_name: "02"
+      name: "陳虹誼"
+      intro: "成大工設所，台南人，透過手作傳遞故事。"
+    -
+      figure_en_name: "03"
+      name: "魏翊庭"
+      intro: "清大服科所，新竹人，喜歡台南的生活步調。"
+    -
+      figure_en_name: "04"
+      name: "張家鈞"
+      intro: "清大服科所，高雄人，嘗遍台南牛肉湯。"

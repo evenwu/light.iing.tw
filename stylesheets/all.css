@@ -768,7 +768,7 @@ tbody.collapse.in { display: table-row-group; }
 .activity .activity-item:after { content: ""; display: table; clear: both; }
 .activity .activity-icon { float: left; width: 64px; padding-right: 6px; }
 .activity .activity-info { float: right; width: calc(100% - 70px); }
-.activity .activity-info .type, .activity .activity-info .title { font-size: 21px; line-height: 33px; }
+.activity .activity-info .type, .activity .activity-info .title { font-size: 20px; line-height: 24px; margin-bottom: 3px; }
 .activity .activity-info .description { font-size: 15px; line-height: 24px; }
 .activity .activity-info .description:before { content: ""; display: block; margin-top: 9px; padding-top: 0px; padding-bottom: 0px; margin-bottom: 9px; border-top: 1px solid #aaaaaa; }
 @media (min-width: 640px) { .activity { margin-top: 72px; padding-top: 72px; padding-bottom: 48px; margin-bottom: 0px; }
