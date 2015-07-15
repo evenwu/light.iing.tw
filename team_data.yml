@@ -1753,3 +1753,92 @@
       figure_en_name: "04"
       name: "張家鈞"
       intro: "清大服科所，高雄人，嘗遍台南牛肉湯。"
+-
+  en_name: "8leather"
+  slogan: "素人變達人，用心做出帶有溫度的皮件"
+  name: "八革 Hachi-Kawa Leatherworks"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市松山區延壽街 153 號 4 樓"
+  category: "生活工藝"
+  since: "2011"
+  website: "http://www.pinkoi.com/store/hachi-kawa"
+  facebook_page: "https://www.facebook.com/8leatherWorks"
+  preface: "2011 年 11 月 11 日決定試著將在日本時開始自學的手工皮件慢慢從興趣轉換成職業。像日本的老師傅一般，灌注自我的靈魂在一件物品上，極盡所能的將一個物品作至個人所能為的完美，期許能為台灣塑造出長期耕耘的文化。"
+  member_amount: "超小規模工作室"
+  member:
+    -
+      figure_en_name: "01"
+      name: "張少華＆王映嵐"
+      intro: "張少華，喜歡台灣、喜歡老東西、惜物、念舊。王映嵐從設計的觀點發想各種物件的可能性。建築、文化、人文關懷。"
+-
+  en_name: "uglyfruit"
+  slogan: "不忍見到醜蔬果被浪費，七名學生建立友善格外品平台"
+  name: "醜蔬果大翻身"
+  video: "https://www.youtube.com/watch?v=tHBtqCpCwdw"
+  map: "newtaipeicity"
+  location: "新北市"
+  address: "新北市永和區中正路 388 號 10 樓之一"
+  category: "社會創新"
+  since: "2015"
+  website: "http://theuglyproduce.strikingly.com"
+  https://www.facebook.com/TheUglyProduce?fref=tsfacebook_page: ""
+  preface: "「醜蔬果大翻身」這個品牌是要提醒那些被我們視而不見的那些格外品，明明是自然的真實樣貌，卻透過層層的人為篩選而造成不必要的浪費。去思考為何「美」會被當作農產品的重要篩選標準，而不是營養價值、土地友善為我們最在乎的標準。我們希望能讓消費者理解食物從何而來、進而更了解產銷體系、推廣珍惜這片土地、資源不浪費的理念。"
+  member_amount: "七個年輕人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "陳彥利"
+      intro: "台北永和人，非常喜歡海。「永遠不要怕做浪漫的題目，只要你身邊有一群對的人。」 臺大政治系，總是充滿好奇心。相信有些價值無法被取代，本質上是個浪漫與實際並存的人。"
+    -
+      figure_en_name: "02"
+      name: "張可盼"
+      intro: "台北人，要畢業不畢業，決定飛去美國交換。喜歡新創公司，從頭開始一起慢慢確定方向、慢慢往前。"
+    -
+      figure_en_name: "03"
+      name: "劉宇瑄"
+      intro: "焦慮的台北人，希望能在有生之年看到期待的改變發生。"
+    -
+      figure_en_name: "04"
+      name: "劉靜文"
+      intro: "熱情的南部人，喜歡用不一樣的方式解決問題！"
+    -
+      figure_en_name: "05"
+      name: "林志煒"
+      intro: "苗栗人。相信只要努力，社會就有可能發生改變！"
+-
+  en_name: "ydsin1940"
+  slogan: "醬油一家子五口人用柴燒做出有時間味道的醬油"
+  name: "御鼎興純手工柴燒黑豆醬油"
+  video: false
+  map: "yunlin"
+  location: "雲林縣"
+  address: "雲林縣西螺鎮安定里安定路 171-11 號"
+  category: "在地滋味"
+  since: "1958"
+  website: "http://www.ydsin1940.com/"
+  facebook_page: "https://www.facebook.com/ydsin1940"
+  preface: "身為第三代的我們，從小就跟在父母身旁幫忙做醬油，卻一直都沒有自己的工廠。歷經了 25 年，終於有了屬於自己的第一間柴燒工廠。在經過多次的搬遷經驗後，我們仔細規劃了醬油設備、衛生管理制定以及醬油工藝的提升，為老品牌重新出發。"
+  member_amount: "一間柴燒醬油工廠、一個晒甕場、和醬油一家子五口人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "醬油爸爸 謝裕讀"
+      intro: "堅持柴燒，古法釀製醬油。延續六十年古早的好味道。"
+    -
+      figure_en_name: "02"
+      name: "醬油媽媽 邱碧惠"
+      intro: "堅持柴燒，古法釀製醬油。延續六十年古早的好味道。"
+    -
+      figure_en_name: "03"
+      name: "醬油阿姨"
+      intro: "醬油媽媽的妹妹，退休後義不容辭來到御鼎興。太忙時笑說自已誤上賊船。"
+    -
+      figure_en_name: "04"
+      name: "醬油哥哥"
+      intro: "黑豆養大的小孩，在澳洲打工兩年。御鼎興品牌概念者之一，對食物有興趣，希望將西方文化引入醬油裡。創造出新奇口味的醬油。"
+    -
+      figure_en_name: "05"
+      name: "醬油弟弟"
+      intro: "黑豆養大的小孩，目前就讀中央大學研究所。御鼎興品牌概念者之一，參與御鼎興的網路經營與文案。"
