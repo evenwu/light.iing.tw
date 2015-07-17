@@ -228,4 +228,37 @@ if ( $('.team-expo').length != 0 ) {
 }
 
 
+// 活動頁的 tab 功能以及切換活動導航的功能
+if ( $('#activity-group').length != 0 ) {
+  // easytab plugin
+  $('#activity-group').easytabs({
+    defaultTab: '#activity-nav-item-light',
+    tabActiveClass: 'is-active',
+    tabs: '#activity-nav .activity-nav-item',
+  });
+
+  // sly plugin
+  var $frame = $('#frame');
+  var $wrap  = $frame.parent();
+  $frame.sly({
+    horizontal: 1,
+    itemNav: 'basic',
+    smart: 1,
+    activateOn: 'click',
+    mouseDragging: 1,
+    touchDragging: 1,
+    releaseSwing: 1,
+    startAt: 0,
+    speed: 300,
+    elasticBounds: 1,
+    // Buttons
+    prevPage: $wrap.find('.activity-pre-btn'),
+    nextPage: $wrap.find('.activity-next-btn')
+  });
+
+  $(window).resize(function(e) {
+    $frame.sly('reload');
+  });
+}
+
 

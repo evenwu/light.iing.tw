@@ -284,7 +284,7 @@
   since: "2013"
   website: "http://www.punplace.tw/"
   facebook_page: "https://www.facebook.com/PunPlace"
-  preface: "一棟四層樓的公寓，裝置了 3D 印表機與雷射切割機等各式工具，成為繼台北之外，台灣第二個 Fab Lab 基地──秉持著 open source 精神的數位製造實驗室。懷抱不同夢想的年輕人聚集在胖地，分享創意與經驗，共用空間，也共用生產工具，不斷進行試驗、開發，共享資源也共享成功的可能。"
+  preface: "一棟四層樓的公寓，裝置了 3D 印表機與雷射切割機等各式工具，是台灣第三個，也是台北之外的第一個 Fab Lab ── 秉持著 open source 精神的數位製造實驗室。懷抱不同夢想的年輕人聚集在胖地，他們在共同工作空間分享創意與經驗，共用空間，也共用生產工具，不斷進行試驗、開發，共享資源也共享成功的可能。"
   member_amount: "一個空間 x 無數個夢想"
   member:
     -
@@ -1760,7 +1760,7 @@
   video: false
   map: "taipei"
   location: "台北市"
-  address: "台北市松山區延壽街 153 號 4 樓"
+  address: "台北市松山區"
   category: "生活工藝"
   since: "2011"
   website: "http://www.pinkoi.com/store/hachi-kawa"
@@ -1771,7 +1771,7 @@
     -
       figure_en_name: "01"
       name: "張少華＆王映嵐"
-      intro: "張少華，喜歡台灣、喜歡老東西、惜物、念舊。王映嵐從設計的觀點發想各種物件的可能性。建築、文化、人文關懷。"
+      intro: "張少華，喜歡台灣、喜歡老東西、惜物、念舊。<br>王映嵐從設計的觀點發想各種物件的可能性。建築、文化、人文關懷。"
 -
   en_name: "uglyfruit"
   slogan: "不忍見到醜蔬果被浪費，七名學生建立友善格外品平台"
