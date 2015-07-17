@@ -1923,3 +1923,64 @@
       figure_en_name: "05"
       name: "萱珮"
       intro: "團隊裡唯一不是清水人，但喜愛清水小鎮的風土民情。讀了好多年的人類學，快要從研究所畢業，因緣巧合之下來清水散步學習實務的經驗，喜歡傾聽、觀察人群、書寫故事，負責旅遊規劃、行旅玩家產業加盟、文創商品研發與行銷規劃等工作。"
+-
+  en_name: "happyfresh"
+  slogan: "與農漁民當夥伴，打造安心農漁產品銷售平台"
+  name: "快樂鱻 HAPPY FRESH"
+  video: "https://www.youtube.com/watch?v=M343hYa3dvs"
+  map: "tainan"
+  location: "台南市"
+  address: "台南市中西區大新街 57 號"
+  category: "在地滋味"
+  since: "2013"
+  website: "http://www.happyfresh.com.tw/ "
+  facebook_page: "https://www.facebook.com/myhappyfresh"
+  preface: "把農漁民當作自己的夥伴，賺取合理的利潤，讓消費者吃到快樂健康美味的食材成了我們經營的重要理念，並在機緣之下與一位同樣致力於無毒漁產的養殖師小杜哥，攜手合作打造農漁產品銷售平台「HAPPY FRESH 快樂鱻」。"
+  member_amount: "四隻狗、四位年輕人、五位蝦老大、一間小卷合作社、一間米家廚房、五座約莫十甲的魚塭地"
+  member:
+    -
+      figure_en_name: "01"
+      name: "王鼎元"
+      intro: "畢業於國立臺南藝術大學，一開始家人反對他留在臺南，父母以為他畢業後會回臺北工作，但他卻選擇留下來。2013 年帶領米家藝文團隊，結合有善環境成立「快樂鱻 HAPPY FRESH」品牌​。​"
+    -
+      figure_en_name: "02"
+      name: "小杜哥"
+      intro: "從前從事飲料業，曾是飲料店的加盟主，因為有感於家鄉的魚塭養殖戶漸漸減少了，家人傳下來的魚塭沒人照顧，加上發現自己身體狀況不佳，於是毅然決然投入養殖業。"
+-
+  en_name: "littlebear"
+  slogan: "厚植臺灣兒童文學創作實力，發掘在地優秀創作者"
+  name: "小熊出版"
+  video: false
+  map: "newtaipeicity"
+  location: "新北市"
+  address: "新北市新店區民權路 108-2 號 9 樓"
+  category: "藝術文化"
+  since: "2010"
+  website: "http://www.bookrep.com.tw/product/product_class_detail.php?bid=42 "
+  facebook_page: "https://www.facebook.com/littlebearbooks"
+  preface: "童年是孵育想像力的溫床，想像力是孩子認識世界的動力，而閱讀能讓想像力馳騁。如同知名詩人楊喚所說：「孩子是株芽，我願意作一名平凡又平凡的小園丁。」小熊出版永遠是孩子拓展視野、認識世界的良伴，更是帶給孩子快樂童年的玩伴。"
+  member_amount: "溫馨的三人編輯室"
+  member:
+    -
+      figure_en_name: "01"
+      name: "三隻小熊"
+      intro: "三隻奮鬥的小熊，豐富孩子的閱讀經驗之餘，更致力於厚植台灣兒童文學創作實力。"
+-
+  en_name: "ycnsj"
+  slogan: "愛創作的女孩勇敢轉換跑道，走自己想要走的路"
+  name: "Yuchen & San Juan"
+  video: false
+  map: "newtaipeicity"
+  location: "新北市"
+  address: "新北市"
+  category: "藝術文化"
+  since: "2015"
+  website: "http://fionagotmail.wix.com/ycnsj "
+  facebook_page: "https://www.facebook.com/YCnSJ"
+  preface: "在進入藝術公司歷練之後，真心希望自己能試著用自己的創作生活，所以就這麼開始了，從一開始的害怕跟緊張，隨著許多朋友跟客戶的鼓勵，各種作品也漸漸地長出了自己喜歡的樣子。"
+  member_amount: "一個女孩跟他的玩偶，一間小套房跟很多故事"
+  member:
+    -
+      figure_en_name: "01"
+      name: "曾于真"
+      intro: "Yuchen & San Juan 的創作者，一個說故事的插畫家。"

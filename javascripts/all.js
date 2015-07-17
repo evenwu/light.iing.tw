@@ -231,11 +231,21 @@ if ( $('.team-expo').length != 0 ) {
 // 活動頁的 tab 功能以及切換活動導航的功能
 if ( $('#activity-group').length != 0 ) {
   // easytab plugin
+  // $('#activity-group').easytabs({
+  //   defaultTab: '#activity-nav-item-light',
+  //   tabActiveClass: 'is-active',
+  //   tabs: '#activity-nav .activity-nav-item',
+  // });
   $('#activity-group').easytabs({
-    defaultTab: '#activity-nav-item-light',
-    tabActiveClass: 'is-active',
-    tabs: '#activity-nav .activity-nav-item',
+     defaultTab: '#activity-nav-item-light',
+     tabActiveClass: 'is-active',
+     tabs: '#activity-nav .activity-nav-item',
   });
+  // ajax callback
+  $('#activity-group').bind('easytabs:ajax:complete', function() {
+    $('.auto-break-text').macho();
+  });
+
 
   // sly plugin
   var $frame = $('#frame');
