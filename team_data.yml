@@ -1779,11 +1779,11 @@
   video: "https://www.youtube.com/watch?v=tHBtqCpCwdw"
   map: "newtaipeicity"
   location: "新北市"
-  address: "新北市永和區中正路 388 號 10 樓之一"
+  address: "新北市"
   category: "社會創新"
   since: "2015"
   website: "http://theuglyproduce.strikingly.com"
-  https://www.facebook.com/TheUglyProduce?fref=tsfacebook_page: ""
+  https: "https://www.facebook.com/TheUglyProduce"
   preface: "「醜蔬果大翻身」這個品牌是要提醒那些被我們視而不見的那些格外品，明明是自然的真實樣貌，卻透過層層的人為篩選而造成不必要的浪費。去思考為何「美」會被當作農產品的重要篩選標準，而不是營養價值、土地友善為我們最在乎的標準。我們希望能讓消費者理解食物從何而來、進而更了解產銷體系、推廣珍惜這片土地、資源不浪費的理念。"
   member_amount: "七個年輕人"
   member:
@@ -1807,6 +1807,14 @@
       figure_en_name: "05"
       name: "林志煒"
       intro: "苗栗人。相信只要努力，社會就有可能發生改變！"
+    -
+      figure_en_name: "06"
+      name: "林宜蓁"
+      intro: "時常在矛盾跟拉扯的台北人。"
+    -
+      figure_en_name: "07"
+      name: "戴邵芸"
+      intro: "認真過日子的台南人，在找到自己之前想要擁有一百種生活。"
 -
   en_name: "ydsin1940"
   slogan: "醬油一家子五口人用柴燒做出有時間味道的醬油"
@@ -1984,3 +1992,41 @@
       figure_en_name: "01"
       name: "曾于真"
       intro: "Yuchen & San Juan 的創作者，一個說故事的插畫家。"
+-
+  en_name: "fruitalley"
+  slogan: "來自不同專業領域的他們返璞歸真，用本土食材做優格、果醬、手工冰淇淋"
+  name: "水果巷"
+  video: false
+  map: "hsinchu"
+  location: "新竹縣"
+  address: "新竹縣"
+  category: "在地滋味"
+  since: "2014"
+  website: "http://goo.gl/04fcl1"
+  facebook_page: "https://www.facebook.com/771692086194358"
+  preface: "取自土地、回饋土地，堅持無人工添加、健康高品質的理念，蒐羅台灣在地食材，踏上農園與小農交流，在綠色市集與朋友們分享這份在地美味，「水果巷」帶我們認識了這片土地上的人、事、物。"
+  member_amount: "五個七年級生"
+  member:
+    -
+      figure_en_name: "01"
+      name: "水果巷"
+      intro: "2013 年集結合作的六人水果團隊，運用來自不同領域的專業、見解，打造【水果巷｜自然良品】品牌，期許能夠以分享、健康、美味，回饋與改善這片土地。"
+-
+  en_name: "rivegauche"
+  slogan: "河左岸，不是建案，也不在巴黎"
+  name: "左岸文化"
+  video: false
+  map: "newtaipeicity"
+  location: "新北市"
+  address: "新北市新店區民權路 108-3 號 8 樓"
+  category: "藝術文化"
+  since: "2001"
+  website: "http://www.bookrep.com.tw/product/product_class_detail.php?bid=36"
+  facebook_page: "https://www.facebook.com/RiveGauchePublishingHouse"
+  preface: "左岸不是一個地理方位，而是一種觀看世界的態度。我們想要研究現象以及現象底下的結構；想要觀察變動以及變動中的矛盾與衝突；想要了解人類心智以及影響人類心智的環境因素。想要一直探索下去，直到世界盡頭。"
+  member_amount: "一個老編，三個小編"
+  member:
+    -
+      figure_en_name: "01"
+      name: "黃秀如"
+      intro: "五年級生，讀了八年政治學，做過國會助理、政治記者、國際編譯、英文老師、書店店員，二十一世紀初正式進入出版界，資歷尚淺，仍在學習階段中。"
