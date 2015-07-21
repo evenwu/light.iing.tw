@@ -2030,3 +2030,45 @@
       figure_en_name: "01"
       name: "黃秀如"
       intro: "五年級生，讀了八年政治學，做過國會助理、政治記者、國際編譯、英文老師、書店店員，二十一世紀初正式進入出版界，資歷尚淺，仍在學習階段中。"
+-
+  en_name: "commonmasterpress"
+  slogan: "不能對不起樹，每一本都是好書"
+  name: "大家出版"
+  video: false
+  map: "newtaipeicity"
+  location: "新北市"
+  address: "新北市新店區民權路 108-2 號 9 樓"
+  category: "藝術文化"
+  since: "2009"
+  website: "http://www.bookrep.com.tw/product/product_class_detail.php?bid=33"
+  facebook_page: "https://www.facebook.com/commonmasterpress"
+  preface: "我們想做的，便是那些你搬家時東西再多，也捨不得不帶走的書。那些不辜負印刷師傅、譯者、設計，不辜負編輯，更不辜負被砍下做成紙張的樹的書。"
+  member_amount: "五人團隊"
+  member:
+    -
+      figure_en_name: "01"
+      name: "賴淑玲"
+      intro: "大家出版總編輯。因為太晚發現自己的志向，來不及成為探險家，只好一直在書中探險。"
+-
+  en_name: "shepherkit"
+  slogan: "電機碩士投身教育產業，讓台灣新創玩具踏入國際市場"
+  name: "綿羊犬"
+  video: "https://www.youtube.com/watch?v=bx0ePAODIAg"
+  map: "taipei"
+  location: "台北市"
+  address: "台北市"
+  category: "藝術文化"
+  since: "2013"
+  website: "http://shepherdkit.com.tw"
+  facebook_page: "https://www.facebook.com/Shepherdkit"
+  preface: "除了幼兒教育的革新，綿羊犬的重要使命是希望改變台灣的傳統產業圈。全世界最頂級的歐、美、日本玩具有許多是在台灣製造，然而產品上卻只出現國外的品牌商標。綿羊犬希望能集結台灣的傳統製造業者，創造出台灣製的國際頂級質感的玩具品牌。"
+  member_amount: "八位年輕人、一間玩具工作室"
+  member:
+    -
+      figure_en_name: "01"
+      name: "林啟維"
+      intro: "台大電機系學士、美國 UCLA 電機碩士，玩具與遊戲的愛好者。以獨特的思維，重新詮釋玩具設計的可能性。"
+    -
+      figure_en_name: "02"
+      name: "楊孟蓉"
+      intro: "師大美術系、美術研究所畢業，專注於美學與家庭教育研究。"
