@@ -483,7 +483,7 @@ tbody.collapse.in { display: table-row-group; }
 
 .share-button { text-align: center; padding-bottom: 48px; }
 .share-button .share-button-title { position: relative; display: block; margin: 0 auto; padding: 12px 0; font-size: 16px; line-height: 24px; font-weight: bold; color: #aaaaaa; }
-.share-button .share-button-title:before { content: ""; display: block; width: 72px; margin: 0 auto; padding-bottom: 24px; border-top: 2px solid #dddddd; }
+.share-button .share-button-title:before { content: ""; display: block; width: 48px; margin: 0 auto; padding-bottom: 24px; border-top: 2px solid #f1f1f1; }
 .share-button .fb-share, .share-button .tweet { display: -moz-inline-stack; display: inline-block; vertical-align: middle; -webkit-filter: brightness(0%); -moz-filter: brightness(0%); filter: brightness(0%); opacity: .25; }
 .share-button .fb-share:hover, .share-button .tweet:hover { -webkit-filter: brightness(100%); -moz-filter: brightness(100%); filter: brightness(100%); opacity: 1; }
 .share-button .fb-share { text-indent: -119988px; overflow: hidden; text-align: left; background-image: url('/images/icon-share-facebook.png?1434273924'); background-repeat: no-repeat; background-position: 50% 50%; width: 32px; height: 32px; background-image: none, url('/images/icon-share-facebook.svg?1434273924'); background-position: center center; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; }
