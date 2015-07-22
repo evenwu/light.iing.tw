@@ -2072,3 +2072,45 @@
       figure_en_name: "02"
       name: "楊孟蓉"
       intro: "師大美術系、美術研究所畢業，專注於美學與家庭教育研究。"
+-
+  en_name: "houpin"
+  slogan: "好皮件也可以很親民，兩個好朋友著手創造平實皮件"
+  name: "HOUPIN"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市"
+  category: "生活工藝"
+  since: "2009"
+  website: ""
+  facebook_page: "https://www.facebook.com/houpin.tw"
+  preface: "時下的品牌皮件、手作皮件往往要價不菲，讓許多喜愛的人只能望梅止渴，基於這樣的出發點，老闆們閃過了一個念頭：「既然平實的皮件在現實生活中是不易生存的，那就讓我們創造它吧！」"
+  member_amount: "2 個老闆、2 個設計師、1 群工匠"
+  member:
+    -
+      figure_en_name: "01"
+      name: "Ella Chen"
+      intro: "唸行銷，於職場打滾近十年、從事關於人的工作，堅持樸實看待世界。 "
+    -
+      figure_en_name: "02"
+      name: "M.H. Lin"
+      intro: "唸社會學，喜愛在市集中觀察人群，集多重身份於一身的女生。"
+-
+  en_name: "handos"
+  slogan: "堅持台灣原創品牌，實踐對土地的熱情"
+  name: "HANDOS"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市"
+  category: "生活工藝"
+  since: "2012"
+  website: "http://www.handos.com.tw"
+  facebook_page: "https://www.facebook.com/HandosBAG"
+  preface: "來自台灣的原創品牌。我們不是工廠，也不是材料供應商，在什麼都沒有的情況下，手邊有的資源僅是幾個對這塊土地有愛有夢想有熱情的人，我們從自創品牌開始。"
+  member_amount: "一團熱血"
+  member:
+    -
+      figure_en_name: "01"
+      name: "HANDOS"
+      intro: "族繁不及備載，每一員全都是 HANDOS 的重要人物， 我們用盡全心全力，努力讓夢想從台灣出發。"
