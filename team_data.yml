@@ -2160,3 +2160,61 @@
       figure_en_name: "03"
       name: "陳慈慧"
       intro: "台大社會系畢業，也是多年前到到溪州工作，參與護水等等大小運動。現負責農產公司之運作。"
+-
+  en_name: "culkertw"
+  slogan: "六個年輕人建立觀光資訊媒合平台，旅客和在地人一起旅行"
+  name: "Culker Taiwan 行腳台灣"
+  video: "https://www.youtube.com/watch?v=zv_LNwEGpns"
+  map: "taipei"
+  location: "台北市"
+  address: "台北市"
+  category: "社會創新"
+  since: "2015"
+  website: "http://www.culkertw.com/"
+  facebook_page: "https://www.facebook.com/culkertw"
+  preface: "有著資訊背景、地理背景、語文背景的五個人，對現有觀光旅遊業有許多的期許並期望改變。起初是發現許多旅行者在台灣常常都會不知所措，資訊多、選擇多、困擾多，更重要的是往往好像沒辦法很實際的瞭解在地人的文化，這都是令人相當惋惜的。"
+  member_amount: "六個年輕人，沒有資本"
+  member:
+    -
+      figure_en_name: "01"
+      name: "王策緯"
+      intro: "我相信，旅行，是學習以另一個文化視野及價值觀，反身地理解自己所在的位置。"
+    -
+      figure_en_name: "02"
+      name: "江長銓"
+      intro: "旅遊，可以是一件很貼近彼此生活的事，我不想當個團進團出的觀光客，我想要的是真正認識彼此，享受著互相的生活。"
+    -
+      figure_en_name: "03"
+      name: "廖柏程"
+      intro: "文化就是生活，土地就是養分。成長在於實踐中的謙卑與學習，成就在於彼此分享經歷與快樂。"
+    -
+      figure_en_name: "04"
+      name: "簡妙蓉"
+      intro: "成長與成就不僅是自我的事情，更是涓滴取之於社會。我堅信，唯有反省能帶來謙遜；唯有實踐能帶來改變。"
+    -
+      figure_en_name: "05"
+      name: "張凱涵"
+      intro: "工程師。在旅行的過程中，總是想辦法在短暫的過客時光中一窺在地人生活的浮光掠影。"
+    -
+      figure_en_name: "06"
+      name: "盧翊程"
+      intro: "我們都渴望逃離日常的時空，穿梭於前臺與後臺一場場生命的展演，進而發現所謂的真實。"
+-
+  en_name: "suibo"
+  slogan: "上班族離開穩定工作，創立工作室集結藝術、設計創作者"
+  name: "水某工作室"
+  video: false
+  map: "taipei"
+  location: "台北市"
+  address: "台北市民權東路三段 103 巷 26 號 2 樓"
+  category: "藝術文化"
+  since: "2015"
+  website: ""
+  facebook_page: ""
+  preface: "目前從「水某」集結的，以藝術、設計創作者為最大宗，來自不同公司行號、工作室或品牌，與水某連結是將個人志業更加發揚光大，我們集結人才，媒合工作並辦活動，並支持彼此的夢想而存在。"
+  member_amount: "三個年輕人"
+  member:
+    -
+      figure_en_name: "01"
+      name: "周愛玉"
+      intro: "自由接案工作者，搜集色彩繽紛的文房具，喜歡與人連結，共同討論生活瑣事和一點點的人生目標。"
